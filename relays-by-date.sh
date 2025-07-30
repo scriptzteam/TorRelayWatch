@@ -2,8 +2,8 @@
 
 mkdir -p data/relays-added-by-date/"$(date +%Y)/$(date +%m)/$(date +%d)"
 
-echo '| Nickname |  Hashed Fingerprint	| Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |' > data/relays-added-by-date/"$(date +%Y)/$(date +%m)/$(date +%d)"/Readme.md
-echo '|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|' >> data/relays-added-by-date/"$(date +%Y)/$(date +%m)/$(date +%d)"/Readme.md
+echo '| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |' > data/relays-added-by-date/"$(date +%Y)/$(date +%m)/$(date +%d)"/Readme.md
+echo '|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|' >> data/relays-added-by-date/"$(date +%Y)/$(date +%m)/$(date +%d)"/Readme.md
 
 TODAY=$(date +%F) # gets YYYY-MM-DD
 
@@ -12,7 +12,8 @@ curl -s "https://onionoo.torproject.org/details" | jq -r --arg TODAY "$TODAY" '
   | select((.first_seen // "") | startswith($TODAY))
   | [
       (.nickname // "N/A"),
-      (.hashed_fingerprint // "N/A"),
+      (.fingerprint // "N/A"),
+      (.or_addresses // "N/A"),
       (.contact // "N/A"),
       (.running | tostring),
       ((.flags // []) | join(", ")),
