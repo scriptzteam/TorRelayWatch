@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|orac | 3EA8AC0EF808D829EF4F6F450BBEF51426582F4C | ["45.9.148.220:443","[2a0e:fa00:0:ab::1]:443"] | N/A | true | Running, V2Dir, Valid | 2025-08-02 00:00:00 | 2025-08-02 00:00:00 | 2025-08-01 23:14:46 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | ["reject *:*"]|
+|straightunicorn | 50705ACDE59BAEF0C8F80AD3F4C4EEF456922514 | ["92.82.233.141:9001"] | Straight Unicorn <straightunicorn@domain> | true | Running, V2Dir, Valid | 2025-08-02 00:00:00 | 2025-08-02 00:00:00 | 2025-08-01 23:26:09 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | ["reject *:*"]|
