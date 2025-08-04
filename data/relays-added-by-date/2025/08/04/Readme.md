@@ -1,3 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|TrustMeBroGaruntee | D2C74CC7486117320E3CF07757955B59F439068C | ["136.38.226.125:9002"] | untidy4982@proton.me | true | Running, V2Dir, Valid | 2025-08-04 00:00:00 | 2025-08-04 00:00:00 | 2025-08-03 23:21:55 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | ["reject *:*"]|
+|ididnteditheconfig | 5FE77433940A0DDE0C00DB6FF8E61C4B7A075A7E | ["64.49.45.21:8443"] | N/A | true | Running, Valid | 2025-08-04 02:00:00 | 2025-08-04 02:00:00 | 2025-08-04 01:28:07 | 0 | Tor 0.4.8.11 on Linux | 0.4.8.11 | recommended | true | N/A | ["reject *:*"]|
+|TrustMeBroGaruntee | D2C74CC7486117320E3CF07757955B59F439068C | ["136.38.226.125:9002"] | untidy4982@proton.me | true | Running, V2Dir, Valid | 2025-08-04 02:00:00 | 2025-08-04 00:00:00 | 2025-08-04 01:32:13 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | ["reject *:*"]|
