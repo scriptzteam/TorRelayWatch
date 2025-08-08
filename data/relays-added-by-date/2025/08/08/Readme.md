@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|MTacTRelay | CF8D96C69E6405AB67F5F4C158CCE92F4958A82E | ["81.227.46.213:2201"] | gtkonline@icloud.com | true | Running, V2Dir, Valid | 2025-08-08 00:00:00 | 2025-08-08 00:00:00 | 2025-08-07 23:09:08 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | ["81-227-46-213-no2550.tbcn.telia.com"] | ["reject *:*"]|
