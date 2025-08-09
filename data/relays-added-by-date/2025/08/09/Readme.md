@@ -1,3 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|MeuRelayTor | BA3648D39562EF486F376D5244435EC56C434083 | ["72.60.0.7:9001","[2a02:4780:14:1e49::1]:9001"] | estudante@exemplo.com | true | Running, V2Dir, Valid | 2025-08-09 00:00:00 | 2025-08-09 00:00:00 | 2025-08-08 23:16:18 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | ["srv937921.hstgr.cloud"] | ["reject *:*"]|
+|MeuRelayTor | BA3648D39562EF486F376D5244435EC56C434083 | ["72.60.0.7:9001","[2a02:4780:14:1e49::1]:9001"] | estudante@exemplo.com | true | Running, V2Dir, Valid | 2025-08-09 02:00:00 | 2025-08-09 00:00:00 | 2025-08-08 23:16:18 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | ["srv937921.hstgr.cloud"] | ["reject *:*"]|
