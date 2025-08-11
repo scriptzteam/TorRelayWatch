@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|LillyCL | 1C124E048CFEE9A4B91153E6E01764B7DF4FE86F | ["159.112.141.27:9001","[2603:c025:c005:3612::420]:9001"] | nashepro [at] proton [dot] me | true | Running, V2Dir, Valid | 2025-08-11 00:00:00 | 2025-08-11 00:00:00 | 2025-08-10 23:24:27 | 0 | Tor 0.4.8.17 on FreeBSD | 0.4.8.17 | recommended | true | N/A | ["reject *:*"]|
