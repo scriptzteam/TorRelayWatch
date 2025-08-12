@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|r2tordigi0039d0b5 | 33FC65EC44D01DB2E499E60C8CB0BFABB434E4C8 | ["107.152.45.61:9001","[2607:9000:7000:22::cef1:eb06]:9001"] | admin@tordigi.com | true | Running, V2Dir, Valid | 2025-08-12 00:00:00 | 2025-08-12 00:00:00 | 2025-08-11 23:44:38 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | ["mx1.hostingswift.com"] | ["reject *:*"]|
+|rendezvousobserver | 9BBE9F153A6B5AAB62D20EA9B38A819B6FA5086D | ["141.105.130.150:9001"] | N/A | true | Running, V2Dir, Valid | 2025-08-12 00:00:00 | 2025-08-12 00:00:00 | 2025-08-11 23:05:19 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | N/A | ["reject *:*"]|
