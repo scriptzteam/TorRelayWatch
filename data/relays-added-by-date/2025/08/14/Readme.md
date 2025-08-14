@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|MiddleEarth | 0C18DD2F789333989A70FDB94C1A3D0E6F8F4081 | ["206.206.192.178:9001"] | tor@exchange.asu.edu | true | Running, V2Dir, Valid | 2025-08-14 00:00:00 | 2025-08-14 00:00:00 | 2025-08-13 23:23:16 | 33792 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | ["reject *:*"]|
+|Ark3 | C52A7063F008F16C431C7EDBAEC7241A9677E2CB | ["37.46.196.22:40045"] | arkTorr@proton.me | true | Running, V2Dir, Valid | 2025-08-14 00:00:00 | 2025-08-14 00:00:00 | 2025-08-13 21:58:05 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | N/A | ["reject *:*"]|
