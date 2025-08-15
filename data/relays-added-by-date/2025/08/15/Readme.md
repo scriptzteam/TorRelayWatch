@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|NotTheCIA | 6D27164E2F60B7492A1C031DF65A173905FBE79F | ["109.123.255.121:6969"] | tor{a}jslink.nl | true | Running, V2Dir, Valid | 2025-08-15 00:00:00 | 2025-08-15 00:00:00 | 2025-08-14 23:40:12 | 258048 | Tor 0.4.8.11 on Linux | 0.4.8.11 | recommended | true | ["vmd150309.contaboserver.net"] | ["reject *:*"]|
