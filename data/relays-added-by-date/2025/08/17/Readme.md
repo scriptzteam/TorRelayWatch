@@ -1,2 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|aouh | 617E8AE7627948287B914295F7B560D76FE9A384 | ["82.197.68.156:25"] | johndoe@example.org | true | Running, V2Dir, Valid | 2025-08-17 02:00:00 | 2025-08-17 01:00:00 | 2025-08-17 00:12:41 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | ["vmi2280591.contaboserver.net"] | ["reject *:*"]|
+|DigitalCashMONERO | 7DF35CBED1E177DA0AFBCA554F129A4508063FCD | ["195.181.170.230:35603"] | N/A | true | Running, Valid | 2025-08-17 02:00:00 | 2025-08-17 01:00:00 | 2025-08-16 23:57:55 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | ["reject *:*"]|
