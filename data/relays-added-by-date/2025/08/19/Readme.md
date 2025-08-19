@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DDR | C0646396C10DD95E2AED1FDBDD8F0DBA47CA7715 | ["45.166.215.0:11111","[2804:4310:ffe6:91d0:108e:f885:d15a:4587]:44444"] | 27wwe4amvjpzjzmybqg7le33fdvnzomjm3x7voswqjn2k2seagq37tad.onion | true | Running, V2Dir, Valid | 2025-08-19 04:00:00 | 2025-08-19 04:00:00 | 2025-08-19 03:25:46 | 2147483647 | (null) | N/A | N/A | false | N/A | ["reject *:*"]|
