@@ -1,4 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|isisi | A9CE1D55017258CC9EB4D977B20A084C8BAA0011 | ["185.242.6.6:9001"] | N/A | true | Running, V2Dir, Valid | 2025-08-20 03:00:00 | 2025-08-20 01:00:00 | 2025-08-20 00:05:22 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | ["reject *:*"]|
-|Legrtte | B48ED2B291E9328D2D2B93CD8AD0148D9405CF89 | ["23.95.75.237:9001"] | N/A | true | Running, V2Dir, Valid | 2025-08-20 03:00:00 | 2025-08-20 01:00:00 | 2025-08-19 23:57:41 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | ["reject *:*"]|
+|isisi | A9CE1D55017258CC9EB4D977B20A084C8BAA0011 | ["185.242.6.6:9001"] | N/A | true | Running, V2Dir, Valid | 2025-08-20 04:00:00 | 2025-08-20 01:00:00 | 2025-08-20 00:05:22 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | ["reject *:*"]|
+|Legrtte | B48ED2B291E9328D2D2B93CD8AD0148D9405CF89 | ["23.95.75.237:9001"] | N/A | true | Running, V2Dir, Valid | 2025-08-20 04:00:00 | 2025-08-20 01:00:00 | 2025-08-19 23:57:41 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | ["reject *:*"]|
