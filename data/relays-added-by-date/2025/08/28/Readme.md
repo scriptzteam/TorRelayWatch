@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|BariItalySouth | 07C442507845DAAA4D98E1AF121500E723782A5C | ["109.116.91.165:9001"] | nas326server.zyxel.me@gmail.com | true | Running, Valid | 2025-08-28 06:00:00 | 2025-08-28 06:00:00 | 2025-08-28 05:39:44 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | ["net-109-116-91-165.cust.vodafonedsl.it"] | ["reject *:*"]|
