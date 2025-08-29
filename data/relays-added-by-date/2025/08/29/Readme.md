@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|yvrHPparvilion | A96CE8BB63E1F9DEF24C5886D77364ED6278544A | ["66.183.96.136:9001"] | ve7lee at gmail.com | true | Running, V2Dir, Valid | 2025-08-29 00:00:00 | 2025-08-29 00:00:00 | 2025-08-28 23:08:38 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | ["d66-183-96-136.bchsia.telus.net"] | ["reject *:*"]|
