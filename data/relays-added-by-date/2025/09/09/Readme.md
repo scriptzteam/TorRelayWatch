@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|RedmiTorRelay | FD0E1A1D406F0E6CA51D5D550D2F75E4736E675A | ["77.131.29.69:9001"] | gabriellebrousse185@gmail.com | true | Running, V2Dir, Valid | 2025-09-09 00:00:00 | 2025-09-09 00:00:00 | 2025-09-08 23:15:48 | 168960 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | ["69.29.131.77.rev.sfr.net"] | ["reject *:*"]|
