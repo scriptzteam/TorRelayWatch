@@ -1,3 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|masstorva | 0CE153476D20D6504B0F6C1D9980C43FF8A6AE7A | ["107.175.245.254:9001"] | wxw at safe-mail dot net | true | Running, Valid | 2025-09-10 00:00:00 | 2025-09-10 00:00:00 | 2025-09-09 23:21:01 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | ["rack107-175-245-254va.dmzdns.com"] | ["reject *:*"]|
+|masstorva | 0CE153476D20D6504B0F6C1D9980C43FF8A6AE7A | ["107.175.245.254:9001"] | wxw at safe-mail dot net | true | Running, Valid | 2025-09-10 01:00:00 | 2025-09-10 00:00:00 | 2025-09-09 23:21:01 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | ["rack107-175-245-254va.dmzdns.com"] | ["reject *:*"]|
