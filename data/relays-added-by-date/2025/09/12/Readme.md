@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|operaTor | BB9C19BDE42CCAE091FD3854DC6B02AF55808D54 | ["162.202.107.146:8443"] | torrelay_operator.isothermally@8shield.net | true | Running, V2Dir, Valid | 2025-09-12 00:00:00 | 2025-09-12 00:00:00 | 2025-09-11 22:50:32 | 61555 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | ["reject *:*"]|
