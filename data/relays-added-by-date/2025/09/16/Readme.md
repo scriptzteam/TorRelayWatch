@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | 3FA3EAD6E62E177CDEAA1A00A86D12F404D08B03 | ["218.252.16.82:9001"] | N/A | true | Running, V2Dir, Valid | 2025-09-16 02:00:00 | 2025-09-16 02:00:00 | 2025-09-16 01:00:36 | 0 | Tor 0.4.8.17 on Windows 8 [or later] | 0.4.8.17 | recommended | true | ["cm218-252-16-82.hkcable.com.hk"] | ["reject *:*"]|
