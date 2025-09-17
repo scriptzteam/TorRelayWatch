@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|flummox | C6A19F4C300583F201C739D0FC475C735C02A032 | ["185.70.197.130:443","[2a04:3544:8000:1000:780d:bcff:feb1:2f50]:443"] | N/A | true | Running, V2Dir, Valid | 2025-09-17 00:00:00 | 2025-09-17 00:00:00 | 2025-09-16 23:06:40 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | ["185-70-197-130.pl-waw1.upcloud.host"] | ["reject *:*"]|
