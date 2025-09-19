@@ -1,3 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|DirtJumpOwlSwim | 24307C1D2C7B10B7DF235316BA8FE66F1FCB6AD2 | ["69.68.78.120:442"] | <joedirt.matchless090@passinbox.com> | true | Running, V2Dir, Valid | 2025-09-19 02:00:00 | 2025-09-19 01:00:00 | 2025-09-18 23:36:23 | 0 | Tor 0.4.8.16 on OpenBSD | 0.4.8.16 | recommended | true | N/A | ["reject *:*"]|
+|DirtJumpOwlSwim | 24307C1D2C7B10B7DF235316BA8FE66F1FCB6AD2 | ["69.68.78.120:442"] | <joedirt.matchless090@passinbox.com> | true | Running, V2Dir, Valid | 2025-09-19 03:00:00 | 2025-09-19 01:00:00 | 2025-09-18 23:36:23 | 0 | Tor 0.4.8.16 on OpenBSD | 0.4.8.16 | recommended | true | N/A | ["reject *:*"]|
