@@ -1,2 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|camm344linode | A2F31D6BBA48C32A1F6454A2F0D4A30064918017 | ["45.79.40.231:9001","[2600:3c00::2000:bcff:fefa:5914]:9001"] | camm <cmcv10344@proton.me> | true | Running, Valid | 2025-09-21 03:00:00 | 2025-09-21 02:00:00 | 2025-09-21 00:52:51 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | ["45-79-40-231.ip.linodeusercontent.com"] | ["reject *:*"]|
+|1507 | F0E6CF387C4EF73C9C4CD4289639CD54B050FB39 | ["193.237.155.109:9002"] | N/A | true | Running, V2Dir, Valid | 2025-09-21 03:00:00 | 2025-09-21 03:00:00 | 2025-09-21 02:39:14 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | ["static-193-237-155-109.vodafonexdsl.co.uk"] | ["reject *:*"]|
