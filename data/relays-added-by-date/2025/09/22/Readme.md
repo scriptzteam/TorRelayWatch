@@ -1,3 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Unnamed | 5754D6AEDDC933982FA53DDED4076BD9F82DFCC6 | ["198.98.57.178:9001"] | N/A | true | Running, Valid | 2025-09-22 08:00:00 | 2025-09-22 06:00:00 | 2025-09-22 05:42:59 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | N/A | ["reject *:*"]|
+|Unnamed | 5754D6AEDDC933982FA53DDED4076BD9F82DFCC6 | ["198.98.57.178:9001"] | N/A | true | Running, Valid | 2025-09-22 09:00:00 | 2025-09-22 06:00:00 | 2025-09-22 05:42:59 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | N/A | ["reject *:*"]|
+|aieternal07 | A97BC8F8309E28BF56759C206448831D717794B8 | ["194.59.204.74:9001"] | ${CONTACT_GPG_FINGERPRINT} ${CONTACT_NAME} ${CONTACT_EMAIL} | true | Running, V2Dir, Valid | 2025-09-22 09:00:00 | 2025-09-22 09:00:00 | 2025-09-22 08:12:41 | 0 | Tor 0.4.8.14 on Linux | 0.4.8.14 | recommended | true | ["dheldarul.genmeta.eu"] | ["reject *:*"]|
