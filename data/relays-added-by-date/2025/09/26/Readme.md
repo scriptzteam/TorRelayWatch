@@ -1,3 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Severance | 6D8EC61CC7DF4856960E5FDA01258FDA70214E64 | ["86.142.26.135:9001"] | johndoe@contactless.glow | true | Running, V2Dir, Valid | 2025-09-26 00:00:00 | 2025-09-26 00:00:00 | 2025-09-25 22:35:31 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | ["host86-142-26-135.range86-142.btcentralplus.com"] | ["reject *:*"]|
+|Severance | 6D8EC61CC7DF4856960E5FDA01258FDA70214E64 | ["86.142.26.135:9001"] | johndoe@contactless.glow | true | Running, V2Dir, Valid | 2025-09-26 01:00:00 | 2025-09-26 00:00:00 | 2025-09-25 22:35:31 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | ["host86-142-26-135.range86-142.btcentralplus.com"] | ["reject *:*"]|
