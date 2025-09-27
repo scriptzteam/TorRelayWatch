@@ -1,3 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|slxrd2 | 12C261FC53CBBA4CCB718E34A1DF675E35EA48F5 | ["177.106.195.30:9101","[2804:1e68:ca05:20f:be24:11ff:fec3:6f1f]:9101"] | slxrd2@proton.me | true | Running, V2Dir, Valid | 2025-09-27 01:00:00 | 2025-09-27 00:00:00 | 2025-09-26 21:44:34 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | ["reject *:*"]|
+|slxrd2 | 12C261FC53CBBA4CCB718E34A1DF675E35EA48F5 | ["177.106.195.30:9101","[2804:1e68:ca05:20f:be24:11ff:fec3:6f1f]:9101"] | slxrd2@proton.me | true | Running, V2Dir, Valid | 2025-09-27 02:00:00 | 2025-09-27 00:00:00 | 2025-09-26 21:44:34 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | N/A | ["reject *:*"]|
