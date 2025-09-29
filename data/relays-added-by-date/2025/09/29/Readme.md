@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|anonicai | AE8EEB55ED8ADF0A513BE7B30520012C16F015EC | ["111.248.237.106:443"] | N/A | false | Running, Valid | 2025-09-29 02:00:00 | 2025-09-29 02:00:00 | 2025-09-29 01:36:46 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | ["111-248-237-106.dynamic-ip.hinet.net"] | ["reject *:*"]|
