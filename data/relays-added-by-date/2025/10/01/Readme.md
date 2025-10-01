@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|mindbyte | AFD778751650A84BEC63C1B0C714D2519F09542E | ["152.53.247.248:9001"] | Mike Wille <tor@mw.gd>  pgp: 1D53B2FF846754E7ABC7B900E8DC24C0F0D96E21 | true | Running, V2Dir, Valid | 2025-10-01 00:00:00 | 2025-10-01 00:00:00 | 2025-09-30 23:18:39 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | ["v2202504161095334565.bestsrv.de"] | ["reject *:*"]|
