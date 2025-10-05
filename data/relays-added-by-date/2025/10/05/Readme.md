@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ammotor0 | D325580472C881F8357D60510A309F0AFFCD7DAA | ["98.148.66.23:443"] | 17y50v30@amotu.net | true | Running, V2Dir, Valid | 2025-10-05 03:00:00 | 2025-10-05 02:00:00 | 2025-10-05 00:36:25 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | ["syn-098-148-066-023.res.spectrum.com"] | ["reject *:*"]|
