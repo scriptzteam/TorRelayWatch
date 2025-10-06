@@ -1,3 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|RotRelay | 8BB926793EFDF80EF05CDE8480734CF1AE5077BC | ["64.23.253.250:443"] | email.4.shade@gmail.com | true | Running, Valid | 2025-10-06 01:00:00 | 2025-10-06 00:00:00 | 2025-10-05 23:41:01 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | N/A | ["reject *:*"]|
+|paperbunny | 6011A82A7D2759EDBF3411459720762D122F1F9E | ["167.88.61.129:443"] | paperbunny@tutamail.com | true | Running, V2Dir, Valid | 2025-10-06 02:00:00 | 2025-10-06 02:00:00 | 2025-10-06 01:38:02 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | N/A | ["reject *:*"]|
+|RotRelay | 8BB926793EFDF80EF05CDE8480734CF1AE5077BC | ["64.23.253.250:443"] | email.4.shade@gmail.com | true | Running, Valid | 2025-10-06 02:00:00 | 2025-10-06 00:00:00 | 2025-10-05 23:41:01 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | N/A | ["reject *:*"]|
