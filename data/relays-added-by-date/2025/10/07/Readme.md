@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|lisa | 1954143B8D7615F32F17FA1E119ADC0182E0BDF1 | ["208.115.218.134:9000"] | N/A | true | Running, V2Dir, Valid | 2025-10-07 00:00:00 | 2025-10-07 00:00:00 | 2025-10-06 22:53:56 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | N/A | ["reject *:*"]|
+|sideshowbob | D22C214CBAA9CAE792A96CE714B955BDB7129A07 | ["64.31.62.158:9000"] | N/A | true | Running, V2Dir, Valid | 2025-10-07 00:00:00 | 2025-10-07 00:00:00 | 2025-10-06 23:13:06 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | N/A | ["reject *:*"]|
