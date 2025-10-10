@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Trust | 4A74101F5B56DE41DD998331B417D9C625F9E9A4 | ["158.69.195.237:9001","[2607:5300:205:200::70d3]:9001"] | N/A | true | Running, V2Dir, Valid | 2025-10-10 00:00:00 | 2025-10-10 00:00:00 | 2025-10-09 23:30:08 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | ["vps-7f62f432.vps.ovh.ca"] | ["reject *:*"]|
