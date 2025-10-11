@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|opus | FFEBC2409098A3DA6F3C4EC866AF025EBBB2172A | ["54.39.133.123:9001","[2607:5300:203:447b::]:9001"] | c @ opus dot rip | true | Running, V2Dir, Valid | 2025-10-11 03:00:00 | 2025-10-11 03:00:00 | 2025-10-11 02:22:49 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | ["ns565337.ip-54-39-133.net"] | ["reject *:*"]|
