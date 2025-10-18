@@ -1,2 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Relay | 383D848BB611592B5ADEFC407F3358128BCF1A4B | ["180.149.44.226:9001","[2a03:90c0:195::581]:443"] | tor@apt96.com | true | Running, V2Dir, Valid | 2025-10-18 01:00:00 | 2025-10-18 01:00:00 | 2025-10-18 00:12:22 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | N/A | ["reject *:*"]|
+|DonTheMessenger | E4E6A86819450AB4C1C0DEBC05D3E35E31D5C629 | ["68.49.145.203:9001"] | u/Simply_Convoluted | true | Running, V2Dir, Valid | 2025-10-18 01:00:00 | 2025-10-18 01:00:00 | 2025-10-17 23:19:42 | 0 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | N/A | ["reject *:*"]|
