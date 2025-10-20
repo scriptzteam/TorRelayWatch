@@ -1,2 +1,5 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|405tor3 | 2CD5D97AD06736108A7A6C9295B243418533F60C | ["107.208.159.58:9004"] | N/A | true | Running, V2Dir, Valid | 2025-10-20 02:00:00 | 2025-10-20 02:00:00 | 2025-10-20 01:33:40 | 0 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | N/A | ["reject *:*"]|
+|405tor2 | 36105055BDEB0A31D58AB0D86EEEBBD9E2648B92 | ["107.208.159.58:9002"] | N/A | true | Running, V2Dir, Valid | 2025-10-20 02:00:00 | 2025-10-20 02:00:00 | 2025-10-20 01:14:18 | 0 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | N/A | ["reject *:*"]|
+|405tor1 | C30D62CE1A0B9CD4A9AF7D76B70C083A5BED97D7 | ["107.208.159.58:9001"] | N/A | true | Running, V2Dir, Valid | 2025-10-20 02:00:00 | 2025-10-20 02:00:00 | 2025-10-20 00:52:25 | 0 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | N/A | ["reject *:*"]|
