@@ -1,2 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Computor | 9115FF21214C56DCB6DA0DBD3CBCAEA5A96FDF77 | ["78.141.239.225:6482","[2a05:f480:1000:753:5400:3ff:fe3f:ccdf]:6482"] | webmaster@computerm.net | true | Running, V2Dir, Valid | 2025-10-22 02:00:00 | 2025-10-22 01:00:00 | 2025-10-22 00:32:47 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | recommended | true | ["computerm.net"] | ["reject *:*"]|
+|JustSomeRelay | AA7D569C52FA44D7921BB8114B50044E80D179F8 | ["73.116.131.165:9001"] | N/A | true | Running, V2Dir, Valid | 2025-10-22 02:00:00 | 2025-10-22 02:00:00 | 2025-10-22 00:39:19 | 21504 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | ["c-73-116-131-165.hsd1.ca.comcast.net"] | ["reject *:*"]|
