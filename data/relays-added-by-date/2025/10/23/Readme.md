@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|hostingswiftfbf99aa | 4465432701DFC3291DC9C7FBC0ABF7D899190009 | ["99.33.43.252:9001","[2600:1700:5de1:2320:5054:ff:fe58:b80a]:9001"] | admin@hostingswift.com | true | Running, V2Dir, Valid | 2025-10-23 01:00:00 | 2025-10-23 01:00:00 | 2025-10-23 00:28:29 | 0 | Tor 0.4.8.17 on Linux | 0.4.8.17 | recommended | true | N/A | ["reject *:*"]|
