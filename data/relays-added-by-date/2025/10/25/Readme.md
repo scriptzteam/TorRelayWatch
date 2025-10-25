@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|TorRelay1337 | DCD853E5D754ED41211B6D82FE18AA867585F81E | ["109.91.213.9:1337"] | tor@jakami.de | true | Running, V2Dir, Valid | 2025-10-25 01:00:00 | 2025-10-25 01:00:00 | 2025-10-25 00:37:42 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | ["ip-109-091-213-009.um37.pools.vodafone-ip.de"] | ["reject *:*"]|
