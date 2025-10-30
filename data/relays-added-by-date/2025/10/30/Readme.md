@@ -1,3 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|iloveanonymity | 370A11E126D5D7FF4FB1AB4C1A52619A306554E5 | ["217.154.145.43:9001"] | N/A | true | Running, V2Dir, Valid | 2025-10-30 00:00:00 | 2025-10-30 00:00:00 | 2025-10-29 23:05:34 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | ["ip217-154-145-43.pbiaas.com"] | ["reject *:*"]|
+|iloveanonymity | 370A11E126D5D7FF4FB1AB4C1A52619A306554E5 | ["217.154.145.43:9001"] | N/A | true | Running, V2Dir, Valid | 2025-10-30 02:00:00 | 2025-10-30 00:00:00 | 2025-10-29 23:05:34 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | ["ip217-154-145-43.pbiaas.com"] | ["reject *:*"]|
