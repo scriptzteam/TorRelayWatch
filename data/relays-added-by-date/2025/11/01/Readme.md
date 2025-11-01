@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|nixRelay | 97B1567B2E88639310DA5DDDC5A542239FC34AD7 | ["90.9.236.182:443","[2a01:cb14:155c:3800:16a1:89cc:8f35:3179]:9001"] | tor_support@nixuge.me | true | Running, V2Dir, Valid | 2025-11-01 02:00:00 | 2025-11-01 02:00:00 | 2025-11-01 00:41:13 | 0 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | N/A | ["reject *:*"]|
