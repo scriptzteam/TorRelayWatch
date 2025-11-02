@@ -1,2 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|tornoderelay | 6E17D9823F5341AA5F6A903CD794223AFC7C842A | ["3.148.140.240:8445"] | your@e-mail | true | Running, V2Dir, Valid | 2025-11-02 02:00:00 | 2025-11-02 01:00:00 | 2025-11-02 00:30:39 | 0 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | ["ec2-3-148-140-240.us-east-2.compute.amazonaws.com"] | ["reject *:*"]|
+|Unnamed | F3830FBAA9AD8413D8AF85483BE7A068C1A849AA | ["81.183.55.22:9001"] | N/A | true | Running, V2Dir, Valid | 2025-11-02 02:00:00 | 2025-11-02 02:00:00 | 2025-11-01 18:51:44 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | recommended | true | ["51B73716.dsl.pool.telekom.hu"] | ["reject *:*"]|
