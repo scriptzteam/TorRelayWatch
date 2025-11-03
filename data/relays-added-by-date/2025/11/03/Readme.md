@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|edmCentral0 | F86698F2977D6A1216215C2CCE540BC84A8508DC | ["205.206.0.92:9109"] | N/A | true | Running, V2Dir, Valid | 2025-11-03 00:00:00 | 2025-11-03 00:00:00 | 2025-11-02 23:24:51 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | recommended | true | ["s205-206-0-92.ab.hsia.telus.net"] | ["reject *:*"]|
