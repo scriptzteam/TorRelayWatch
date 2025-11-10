@@ -1,3 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|HiveBlockchainNode1 | D1459EC92462F0FED9CE7E36E8D3E797F6805288 | ["23.145.40.178:443","[2a07:e04:3:2c::1]:443"] | areyouok@tuta.io | true | Running, V2Dir, Valid | 2025-11-10 03:00:00 | 2025-11-10 03:00:00 | 2025-11-10 01:51:03 | 0 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | N/A | ["reject *:*"]|
+|HiveBlockchainNode1 | D1459EC92462F0FED9CE7E36E8D3E797F6805288 | ["23.145.40.178:443","[2a07:e04:3:2c::1]:443"] | areyouok@tuta.io | true | Running, V2Dir, Valid | 2025-11-10 04:00:00 | 2025-11-10 03:00:00 | 2025-11-10 01:51:03 | 0 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | N/A | ["reject *:*"]|
