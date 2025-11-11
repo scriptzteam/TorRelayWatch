@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Karin4713 | 881BFB430CC43BD9D200BA8348C69E9B625CFADF | ["62.20.191.127:9003"] | Random Person <kalle.fester@outlook.com> | true | Running, Valid | 2025-11-11 00:00:00 | 2025-11-11 00:00:00 | 2025-11-10 22:59:28 | 0 | Tor 0.4.8.13 on Linux | 0.4.8.13 | recommended | true | ["62-20-191-127-no600.tbcn.telia.com"] | ["reject *:*"]|
