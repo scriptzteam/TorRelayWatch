@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | 9ECE67DAAF8A26586B9DD99E376E5FE72A48E57E | ["8.215.52.126:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2025-11-12 03:00:00 | 2025-11-12 03:00:00 | 2025-11-12 02:12:44 | 0 | Tor 0.4.8.19 on Linux | 0.4.8.19 | recommended | true | N/A | ["reject 0.0.0.0/8:*","reject 169.254.0.0/16:*","reject 127.0.0.0/8:*","reject 192.168.0.0/16:*","reject 10.0.0.0/8:*","reject 172.16.0.0/12:*","reject 8.215.52.126:*","accept *:80","accept *:443","reject *:*"]|
