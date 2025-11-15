@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|MeinDebianRelay | 3F645242D827CECBBD90BFC69E39DA436CC408E5 | ["185.255.131.58:9001","[2a02:c207:3018:3115::1]:9001"] | dein@email.de | true | Running, V2Dir, Valid | 2025-11-15 00:00:00 | 2025-11-15 00:00:00 | 2025-11-14 18:12:34 | 61440 | Tor 0.4.8.20 on Linux | 0.4.8.20 | recommended | true | ["vmd183115.contaboserver.net"] | ["reject *:*"]|
+|BuyStrongBuyMonero | A2433CAB69F92B71771932BE85C7948E0DF7902A | ["185.153.197.189:443"] | N/A | true | Running, Valid | 2025-11-15 00:00:00 | 2025-11-15 00:00:00 | 2025-11-14 22:47:13 | 0 | Tor 0.4.8.20 on Linux | 0.4.8.20 | recommended | true | N/A | ["reject *:*"]|
