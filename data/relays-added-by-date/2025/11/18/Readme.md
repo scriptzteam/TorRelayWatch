@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|RaspberryPi4b4e | 41985F7DFE5013015FDEB7D8955040B1F76B10B6 | ["92.157.114.172:9001"] | tor-relay@example.com | true | Running, V2Dir, Valid | 2025-11-18 00:00:00 | 2025-11-18 00:00:00 | 2025-11-17 22:31:41 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | ["lfbn-gre-1-19-172.w92-157.abo.wanadoo.fr"] | ["reject *:*"]|
