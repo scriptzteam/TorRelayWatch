@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Route64TorRelay | 339CC782D43983913A2DEC628011E20C07C44A67 | ["192.208.1.65:9001","[2a11:6c7:0:a0::2]:9001"] | noc@route64.org | true | Running, V2Dir, Valid | 2025-11-21 00:00:00 | 2025-11-21 00:00:00 | 2025-11-20 23:04:19 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | ["reject *:*"]|
+|Av123 | 463872FC2C205BEA471D25762257E76D266CECEB | ["91.134.132.95:9001","[2001:41d0:305:2100::ccb6]:9001"] | N/A | true | Running, V2Dir, Valid | 2025-11-21 00:00:00 | 2025-11-21 00:00:00 | 2025-11-20 22:56:20 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | ["reject *:*"]|
