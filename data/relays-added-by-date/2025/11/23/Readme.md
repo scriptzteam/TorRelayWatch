@@ -1,2 +1,5 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|LastDragonRelay | 46A65C5E4B307C869759701B1BA33E616B1A12B4 | ["189.230.69.176:9001"] | avisos@lastdragon.net | true | Running, V2Dir, Valid | 2025-11-23 02:00:00 | 2025-11-23 02:00:00 | 2025-11-23 00:36:19 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | ["reject *:*"]|
+|SimpleRelay | 93186097F40C75D05083805FB59365DAEB386DF2 | ["151.40.183.86:9001"] | N/A | true | Running, V2Dir, Valid | 2025-11-23 02:00:00 | 2025-11-23 01:00:00 | 2025-11-23 00:42:37 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | ["reject *:*"]|
+|FotzenFritzbyUGN | E9CBEC7C26A3590AAF29CEDA25BCBFCFA7D769B4 | ["37.82.240.82:9001"] | N/A | true | Running, V2Dir, Valid | 2025-11-23 02:00:00 | 2025-11-23 02:00:00 | 2025-11-23 01:42:11 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
