@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Baboon | 78845845D5C74181F0C37DB2D54FE91569994E27 | ["84.32.51.0:80"] | tor@danz0.com | true | Running, V2Dir, Valid | 2025-11-25 00:00:00 | 2025-11-25 00:00:00 | 2025-11-24 23:07:36 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | ["ip-84-32-51-0.003.ptr.cherryservers.net"] | ["reject *:*"]|
