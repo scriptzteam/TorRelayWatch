@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ghostai | 68984C12C9CBB58B85C3B47074FEB4F7AF298114 | ["18.116.247.121:9001"] | YourEmail@example.com | true | Running, V2Dir, Valid | 2025-11-27 00:00:00 | 2025-11-27 00:00:00 | 2025-11-26 23:33:18 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | ["ec2-18-116-247-121.us-east-2.compute.amazonaws.com"] | ["reject *:*"]|
