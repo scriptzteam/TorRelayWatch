@@ -1,2 +1,5 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|LiteScriptRelay | 820FAD07375FF0538B3C621CB58AFE6CD325499A | ["46.110.43.156:9001"] | Peter <brown.peterg@gmail.com> | true | Running, V2Dir, Valid | 2025-11-29 02:00:00 | 2025-11-29 02:00:00 | 2025-11-29 01:17:54 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
+|HairApprentice | BF71B56C510A2F3B940981B5A230CBE310D6C802 | ["185.215.187.144:443","[2a07:9280:0:2::31]:443"] | lameduck | true | Running, V2Dir, Valid | 2025-11-29 02:00:00 | 2025-11-29 01:00:00 | 2025-11-29 00:01:01 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
+|hOSE | F2CC7DBF3731829D7B111AAC1223C550EAC5DBAA | ["95.169.191.196:443"] | lameduck | true | Running, V2Dir, Valid | 2025-11-29 02:00:00 | 2025-11-29 01:00:00 | 2025-11-29 00:01:16 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
