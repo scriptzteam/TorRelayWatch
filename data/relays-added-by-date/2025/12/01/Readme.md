@@ -1,0 +1,5 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|masstorNYT | 6DC66A94443235265D98FDC52E5E2AEB6D21B64F | ["198.46.175.208:9001"] | N/A | true | Running, Valid | 2025-12-01 00:00:00 | 2025-12-01 00:00:00 | N/A | 0 | N/A | 0.4.8.21 | recommended | true | ["rack198-46-175-208nyt.dmzdns.com"] | N/A|
+|MeinGlasfaserRelay | 6DD49BBADE0BDC69C2489FC85188A38074F28BCA | ["85.3.218.69:9001"] | N/A | true | Running, V2Dir, Valid | 2025-12-01 00:00:00 | 2025-12-01 00:00:00 | N/A | 0 | N/A | 0.4.8.21 | recommended | true | ["69.218.3.85.dynamic.cust.swisscom.net"] | N/A|
+|masstorDALT | B957D06EDEAF08606F7B48D6577222D75FAD3540 | ["23.95.107.183:9001"] | N/A | true | Running, Valid | 2025-12-01 00:00:00 | 2025-12-01 00:00:00 | N/A | 0 | N/A | 0.4.8.21 | recommended | true | ["rack23-95-107-183dalt.dmzdns.com"] | N/A|
