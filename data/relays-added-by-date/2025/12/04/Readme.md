@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|doggieliccRel1 | 0875B1F577490BF005656DF40EBCA28DC0CF58FE | ["77.42.21.246:9001","[2a01:4f9:c013:f8cf::1]:9001"] | postmaster@doggieli.cc | true | Running, V2Dir, Valid | 2025-12-04 00:00:00 | 2025-12-04 00:00:00 | 2025-12-03 23:40:28 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | ["doggieli.cc"] | ["reject *:*"]|
