@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|hallogen | D6B10EA7151477AFD0AE091AB60CF19EE2F5D5CC | ["134.101.43.158:9001"] | N/A | true | Running, V2Dir, Valid | 2025-12-05 00:00:00 | 2025-12-05 00:00:00 | 2025-12-04 22:56:09 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
+|0lt | EC99A6385A22B6A9552AB10DCFC37F1682BCB321 | ["185.243.218.138:443","[2a03:94e0:ffff:185:243:218:0:138]:443"] | tor@0lt.de | true | Running, V2Dir, Valid | 2025-12-05 00:00:00 | 2025-12-05 00:00:00 | 2025-12-04 23:47:43 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | ["1gi.0lt.de"] | ["reject *:*"]|
