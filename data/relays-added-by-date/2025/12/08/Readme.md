@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|masstorchiT | C48BF562D27C916C952C207AFC3F4147FBD92F35 | ["198.46.160.193:9001"] | wxw at safe-mail dot net | true | Running, Valid | 2025-12-08 00:00:00 | 2025-12-08 00:00:00 | 2025-12-07 23:34:57 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | ["rack198-46-160-193chi.dmzdns.com"] | ["reject *:*"]|
