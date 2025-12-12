@@ -1,2 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Holtor | 4A7840025280EC58C42956B092564E76C3D0DCD7 | ["185.146.233.130:9001","[2a06:1700:0:4e3::d04a:6a43]:9001"] | R.  <holtor . holtor @ onionmail . org> | true | Running, V2Dir, Valid | 2025-12-12 02:00:00 | 2025-12-12 01:00:00 | 2025-12-12 00:05:31 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
+|somethingIlike | D7BF65BD611629D7DFCAB5AD778BA077E4255F71 | ["87.106.148.201:443"] | notmyemail@hotmail.com | true | Running, V2Dir, Valid | 2025-12-12 02:00:00 | 2025-12-12 02:00:00 | 2025-12-12 01:56:34 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.10 | obsolete | false | ["ip87-106-148-201.pbiaas.com"] | ["reject *:*"]|
