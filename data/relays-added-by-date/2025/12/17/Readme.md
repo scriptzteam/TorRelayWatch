@@ -1,3 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|serpico | 52902F8B6DEC211FC01E641FD2346E45580874F9 | ["91.148.186.90:443"] | MarkN.Hebb@gmail.com | true | Running, V2Dir, Valid | 2025-12-17 00:00:00 | 2025-12-17 00:00:00 | 2025-12-16 23:34:39 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
+|FastRelayNode | 02E18A29D80D94A151B0A2F0810135FD938190DD | ["31.22.105.49:9001"] | admin@localhost | true | Running, V2Dir, Valid | 2025-12-17 02:00:00 | 2025-12-17 02:00:00 | 2025-12-17 01:44:05 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
+|serpico | 52902F8B6DEC211FC01E641FD2346E45580874F9 | ["91.148.186.90:443"] | MarkN.Hebb@gmail.com | true | Running, V2Dir, Valid | 2025-12-17 02:00:00 | 2025-12-17 00:00:00 | 2025-12-16 23:34:39 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
