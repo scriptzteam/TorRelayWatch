@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|intospace | 6584688F1A0132BF1AB79E91EDF6F9602C7336C1 | ["31.14.96.18:443","[2a01:7c8:bb01:18c:5054:ff:fe55:3f23]:443"] | D.O. Bronk <tor-relay@bronk-ict.nl> | true | Running, V2Dir, Valid | 2025-12-24 00:00:00 | 2025-12-24 00:00:00 | 2025-12-23 23:26:44 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | ["mx1.bronk-ict.nl"] | ["reject *:*"]|
