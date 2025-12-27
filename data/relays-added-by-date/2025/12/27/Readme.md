@@ -1,2 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|TorUtilizerCloudR6 | E3D50F2FC56093A192ACD881DE14893E9D2331C3 | ["202.10.46.104:443","[2001:df1:7800::352]:443"] | admin@tor.utilizer.cloud | true | Running, V2Dir, Valid | 2025-12-27 02:00:00 | 2025-12-27 02:00:00 | 2025-12-27 01:38:54 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
+|Kangadily | EC4153E9B1E7E9223D12B6D8F1171715A65F354E | ["185.225.19.159:9001"] | N/A | true | Running, V2Dir, Valid | 2025-12-27 02:00:00 | 2025-12-27 02:00:00 | 2025-12-27 01:20:57 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
