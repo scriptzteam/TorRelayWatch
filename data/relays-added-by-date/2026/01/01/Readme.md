@@ -1,2 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|RussianHackerPi | 2A1D0809B44E80E01C03E4BAFC532EE59D06FCA4 | ["73.99.144.175:9001"] | tyrlanguage@gmail.com | true | Running, V2Dir, Valid | 2026-01-01 04:00:00 | 2026-01-01 04:00:00 | 2026-01-01 03:33:18 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
+|viennaOnTheRunnn | 40511CC78022723150F04D8150E4DCFD613744B3 | ["81.169.186.16:29003","[2a01:238:429c:9600:40e6:e961:9cf7:31d1]:29003"] | Mi Gibtsdonet <nobody AT example dot com> | true | Running, V2Dir, Valid | 2026-01-01 04:00:00 | 2026-01-01 04:00:00 | 2026-01-01 03:30:42 | 21774336 | Tor 0.4.8.19 on Linux | 0.4.8.19 | obsolete | false | N/A | ["reject *:*"]|
