@@ -1,3 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|torminator01 | 0B1A322453876C5111AB475D56BA2A2FFC24F171 | ["45.9.168.106:8500","[2a0e:bfc2:0:15::e:1]:8500"] | N/A | true | Running, V2Dir, Valid | 2026-01-02 00:00:00 | 2026-01-02 00:00:00 | 2026-01-01 22:53:38 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
+|torminator01 | 0B1A322453876C5111AB475D56BA2A2FFC24F171 | ["45.9.168.106:8500","[2a0e:bfc2:0:15::e:1]:8500"] | N/A | true | Running, V2Dir, Valid | 2026-01-02 02:00:00 | 2026-01-02 00:00:00 | 2026-01-01 22:53:38 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
