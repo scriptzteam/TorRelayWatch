@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|MyUbuntuRelay | 36135784C1E5D3A033F021367A7CA978A1626B99 | ["73.124.58.182:9001"] | your_email@example.com | true | Running, V2Dir, Valid | 2026-01-04 00:00:00 | 2026-01-04 00:00:00 | 2026-01-03 22:33:09 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | ["c-73-124-58-182.hsd1.fl.comcast.net"] | ["reject *:*"]|
