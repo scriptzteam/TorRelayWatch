@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|netbase9 | 98B67AF744B633C1DF796BAC659AB26E57D4C2FA | ["69.9.131.124:9001"] | admin@emeraldvalley.net | true | Running, V2Dir, Valid | 2026-01-05 00:00:00 | 2026-01-05 00:00:00 | 2026-01-04 22:27:31 | 173056 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
+|ImpossiblePanda | FF1E810F5B46E29F22C7244F4DF16B77D6E411F0 | ["185.21.217.76:9001"] | Harddisk7122@proton.me | true | Running, V2Dir, Valid | 2026-01-05 00:00:00 | 2026-01-05 00:00:00 | 2026-01-04 23:03:35 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
