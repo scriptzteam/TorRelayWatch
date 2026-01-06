@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Megatron | 3BB14B43B7CF45B86AD8A23335DDC0444B1AA330 | ["51.38.151.166:9001"] | megatron.today@protonmail.com | true | Running, V2Dir, Valid | 2026-01-06 00:00:00 | 2026-01-06 00:00:00 | 2026-01-05 23:12:27 | 172032 | Tor 0.4.8.21 on Windows Server 2012 [or later] | 0.4.8.21 | recommended | true | ["ip166.ip-51-38-151.eu"] | ["reject *:*"]|
