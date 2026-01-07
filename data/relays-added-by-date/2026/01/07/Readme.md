@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | 58E69D620CEB5A797DB10193A0536BD027FF4DCA | ["217.30.69.178:9049"] | N/A | true | Running, V2Dir, Valid | 2026-01-07 00:00:00 | 2026-01-07 00:00:00 | 2026-01-06 23:30:10 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | obsolete | false | N/A | ["reject *:*"]|
+|middletor | D1B445A59519DC8DB49BB2C78095044280F602FA | ["173.177.102.126:9443"] | middletor@protonmail.com | true | Running, Valid | 2026-01-07 00:00:00 | 2026-01-07 00:00:00 | 2026-01-06 22:45:29 | 157696 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
