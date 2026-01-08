@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|HyruleCastle | 1895025C9CB98DB5D8E7FF7412B5A9115B5FDE37 | ["77.166.211.126:9443","[2a02:a442:1016:10::1]:9443"] | Svag <svag AT servify dot nl> | true | Running, V2Dir, Valid | 2026-01-08 00:00:00 | 2026-01-08 00:00:00 | 2026-01-07 23:11:00 | 0 | Tor 0.4.8.18 on Linux | 0.4.8.18 | obsolete | false | N/A | ["reject *:*"]|
+|spadeplayer | FD7A5E4977476432E9F21FC5DDB5ADBF86B86DA8 | ["82.117.255.66:9001"] | maid to be plaid  [dont spam me f*cker]  @protonmail.com | true | Running, V2Dir, Valid | 2026-01-08 00:00:00 | 2026-01-08 00:00:00 | 2026-01-07 23:37:21 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
