@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DigiBINinUSA | A9B873767FC48F1091D444C4E2F975E0D27D6B4B | ["172.237.157.245:443","[2600:3c06::2000:f1ff:fe3e:9330]:443"] | digibin@protonmail.com | true | Running, Valid | 2026-01-09 00:00:00 | 2026-01-09 00:00:00 | 2026-01-08 22:59:20 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | ["usa.digibin.uk"] | ["reject *:*"]|
