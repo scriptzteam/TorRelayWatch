@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|testrly | A21A2F2837D0B658152CE09DAFA9EB5916A4BBB0 | ["102.205.44.23:443","[2c0f:2cc0:2a1::1]:443"] | irinagaukova@gmail.com | true | Running, V2Dir, Valid | 2026-01-14 00:00:00 | 2026-01-14 00:00:00 | 2026-01-13 23:31:22 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
+|ZevierRelay | C9C514004AC8F3AE8AC41135D7D125F19617C459 | ["88.167.249.137:49000","[2a01:e0a:9fe:6260:f1ab:8b54:5c41:9bdc]:49000"] | zevier@zevier.fr | true | Running, V2Dir, Valid | 2026-01-14 00:00:00 | 2026-01-14 00:00:00 | 2026-01-13 23:10:46 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | ["88-167-249-137.subs.proxad.net"] | ["reject *:*"]|
