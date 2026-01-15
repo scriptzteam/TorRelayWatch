@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|ChangeMe | BCD664F8A1B5552C1E81A5012EA946E56F61B2F6 | ["185.146.232.223:443","[2a06:1700:0:4d6::f592:7]:443"] | your-email AT example DOT com | true | Running, V2Dir, Valid | 2026-01-15 00:00:00 | 2026-01-15 00:00:00 | 2026-01-14 23:19:15 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | ["reject *:*"]|
