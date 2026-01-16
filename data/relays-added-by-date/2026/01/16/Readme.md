@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|SYCSTorRelay | C767B84D99D51724FBA39E7670A4F2160E249DC3 | ["106.165.35.248:9001","[240f:61:d71d:1::2]:9001"] | contact@kawasaki-n3t.f5.si | true | Running, V2Dir, Valid | 2026-01-16 02:00:00 | 2026-01-16 01:00:00 | 2026-01-15 23:49:35 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | ["KD106165035248.ppp-bb.dion.ne.jp"] | ["reject *:*"]|
