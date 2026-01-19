@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|LastDragonRelay | B14BC4A037B56E918A870B1A5DE9766723A10C6B | ["189.238.241.24:9001"] | avisos@lastdragon.net | true | Running, V2Dir, Valid | 2026-01-19 00:00:00 | 2026-01-19 00:00:00 | 2026-01-18 23:46:38 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | ["reject *:*"]|
+|MyTorRelay | B3D98B410055BE9919D0B3EDD194D3DC51740802 | ["23.137.251.125:443","[2602:fc24:14:21::a]:443"] | N/A | true | Running, Valid | 2026-01-19 00:00:00 | 2026-01-19 00:00:00 | 2026-01-18 23:21:08 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
