@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|simplyfreedom | 0BE6321A0B24C3431B7F742A971F99E436FCE9F2 | ["82.196.100.28:9001"] | tor.nae3y@simplelogin.com | true | Running, V2Dir, Valid | 2026-01-20 00:00:00 | 2026-01-20 00:00:00 | 2026-01-19 22:03:30 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | ["h-82-196-100-28.A193.priv.bahnhof.se"] | ["reject *:*"]|
+|HungaryFastDC | 13D372C40E2186DE32BFCE90662FB5CB37E740B9 | ["37.221.209.198:995"] | D.O Bronk <tor-relay@bronk-ict.nl> | true | Running, V2Dir, Valid | 2026-01-20 00:00:00 | 2026-01-20 00:00:00 | 2026-01-19 22:56:49 | 0 | Tor 0.4.8.21 on Linux | 0.4.8.21 | recommended | true | N/A | ["reject *:*"]|
