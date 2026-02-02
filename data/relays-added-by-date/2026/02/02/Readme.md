@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|NoTrace | A6D3236E68D940DBF2727ED7820DC20BCAA579F7 | ["54.37.75.160:9001","[2001:41d0:701:1100::9ecc]:9001"] | zero579byte@proton.me | true | Running, V2Dir, Valid | 2026-02-02 00:00:00 | 2026-02-02 00:00:00 | 2026-02-01 23:16:48 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | ["vps-4428cf23.vps.ovh.net"] | ["reject *:*"]|
