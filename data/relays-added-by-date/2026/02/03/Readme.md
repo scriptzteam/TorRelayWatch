@@ -1,3 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|hong | 3A2CDEA402FD8CC342D6041148941BA2B6113A5F | ["24.199.118.72:9001"] | hidrate.often22@gmail.com | true | Running, V2Dir, Valid | 2026-02-03 03:00:00 | 2026-02-03 03:00:00 | 2026-02-03 02:44:39 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | N/A | ["reject *:*"]|
+|Quetzalcoatl | 0271EFDEFA34448C23A6E8DD56AF438D185AD52F | ["104.248.89.100:9001"] | lutzyrandomtips@gmail.com | true | Running, V2Dir, Valid | 2026-02-03 04:00:00 | 2026-02-03 04:00:00 | 2026-02-03 03:44:20 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | N/A | ["reject *:*"]|
+|hong | 3A2CDEA402FD8CC342D6041148941BA2B6113A5F | ["24.199.118.72:9001"] | hidrate.often22@gmail.com | true | Running, V2Dir, Valid | 2026-02-03 04:00:00 | 2026-02-03 03:00:00 | 2026-02-03 02:44:39 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | N/A | ["reject *:*"]|
