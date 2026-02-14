@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|sussychungus | 5D83EDFEE8D51C24E8117CD337F9409FD0896BA7 | ["90.203.12.37:9001"] | pink.hacker04@gmail.com | true | Running, V2Dir, Valid | 2026-02-14 00:00:00 | 2026-02-14 00:00:00 | 2026-02-13 23:15:23 | 0 | Tor 0.4.8.16 on Linux | 0.4.8.16 | obsolete | false | N/A | ["reject *:*"]|
+|starfire | 9C1D0C09D73152A30901E5F479F391C3D71325EF | ["73.133.105.83:443"] | fttor2@protonmail.com | true | Running, Valid | 2026-02-14 00:00:00 | 2026-02-14 00:00:00 | 2026-02-13 23:46:21 | 0 | Tor 0.4.9.5 on Linux | 0.4.9.5 | recommended | true | ["c-73-133-105-83.hsd1.md.comcast.net"] | ["reject *:*"]|
