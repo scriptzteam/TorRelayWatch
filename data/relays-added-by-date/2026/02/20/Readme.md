@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | 92D739765C23034B3FE348C0C548C001087EEED2 | ["85.9.215.100:9001","[2a04:3544:1000:1510:c875:4ff:fe89:53fa]:9001"] | Horse <late.horse1786 AT fastmail dot com> | true | Running, Valid | 2026-02-20 00:00:00 | 2026-02-20 00:00:00 | 2026-02-19 23:40:47 | 0 | Tor 0.4.9.5 on Linux | 0.4.9.5 | recommended | true | N/A | ["reject *:*"]|
+|Sex | 93F1FEEDBF0556EDE14F6257DEC66800D9591C95 | ["87.121.84.52:443"] | admin@example.com | true | Running, V2Dir, Valid | 2026-02-20 00:00:00 | 2026-02-20 00:00:00 | 2026-02-19 23:10:47 | 0 | Tor 0.4.9.5 on Linux | 0.4.9.5 | recommended | true | N/A | ["reject *:*"]|
