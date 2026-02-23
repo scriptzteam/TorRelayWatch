@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|belovachap15 | 3D26E22A5D0C82A42C47D55A51812E956BDFBF12 | ["64.226.71.222:443","[2a03:b0c0:3:f0:0:2:748:a000]:443"] | chapman.shoop@riseup.net | true | Running, V2Dir, Valid | 2026-02-23 00:00:00 | 2026-02-23 00:00:00 | 2026-02-22 23:09:59 | 0 | Tor 0.4.9.5 on Linux | 0.4.9.5 | recommended | true | N/A | ["reject *:*"]|
