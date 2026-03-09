@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|MyRelay | 3514C30C2AB36A84FC96072BDE932C96EFFE3EB4 | ["69.126.115.17:9001"] | marcfabricatore@att.net | true | Running, V2Dir, Valid | 2026-03-09 00:00:00 | 2026-03-09 00:00:00 | 2026-03-08 23:20:57 | 0 | Tor 0.4.9.5 on Linux | 0.4.9.5 | recommended | true | ["ool-457e7311.dyn.optonline.net"] | ["reject *:*"]|
