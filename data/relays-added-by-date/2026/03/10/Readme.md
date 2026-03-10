@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|MagyarRelay | 25CFED03A48AC6D5B1BE8C5B9FAAB3DA4B62FE3F | ["212.73.137.110:9001","[2001:67c:fac::3a67:2]:9001"] | email@fasz.hu | true | Running, V2Dir, Valid | 2026-03-10 00:00:00 | 2026-03-10 00:00:00 | 2026-03-09 22:52:58 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | ["110.137.73.212.vdns.hu"] | ["reject *:*"]|
