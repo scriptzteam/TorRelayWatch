@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|TV2834 | 26C01D789D88DFA9F793533B4EF2C638D4DC63A3 | ["216.16.6.77:9001"] | printerexpert@mail2tor.com | true | Exit, Running, V2Dir, Valid | 2026-03-15 01:00:00 | 2026-03-15 00:00:00 | 2026-03-14 21:43:21 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | N/A | ["reject 0.0.0.0/8:*","reject 169.254.0.0/16:*","reject 127.0.0.0/8:*","reject 192.168.0.0/16:*","reject 10.0.0.0/8:*","reject 172.16.0.0/12:*","reject 216.16.6.77:*","accept *:*"]|
