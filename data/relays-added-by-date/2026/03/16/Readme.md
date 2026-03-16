@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|prsv | EA36F3A86C29FEA3D5143265B7B3AB89DE7692E0 | ["57.129.110.6:9300","[2001:41d0:701:1100::490d]:9300"] | email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2 | true | Running, V2Dir, Valid | 2026-03-16 00:00:00 | 2026-03-16 00:00:00 | 2026-03-15 22:50:12 | 0 | Tor 0.4.9.5 on Linux | 0.4.9.5 | recommended | true | ["vps-d8319e86.vps.ovh.net"] | ["reject *:*"]|
