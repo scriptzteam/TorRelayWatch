@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DebianElena | 58BBEDD29DF5056F3F6894E30B3D19B0CF62351B | ["79.112.119.153:9001"] | elenadd <rashzaria.100@gmail.com> | true | Running, V2Dir, Valid | 2026-03-28 02:00:00 | 2026-03-28 02:00:00 | 2026-03-28 00:44:40 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | ["reject *:*"]|
