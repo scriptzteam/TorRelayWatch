@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|TV5051 | 1E793BD59F87844ABC81D73AB614DA8B38987F39 | ["131.108.2.150:9001"] | printerexpert@mail2tor.com | true | Exit, Running, V2Dir, Valid | 2026-04-03 00:00:00 | 2026-04-03 00:00:00 | 2026-04-02 23:04:35 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | N/A | ["reject 0.0.0.0/8:*","reject 169.254.0.0/16:*","reject 127.0.0.0/8:*","reject 192.168.0.0/16:*","reject 10.0.0.0/8:*","reject 172.16.0.0/12:*","reject 131.108.2.150:*","accept *:*"]|
