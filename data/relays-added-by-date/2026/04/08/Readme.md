@@ -1,0 +1,6 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|BorisVanovsky | 1164775DA05FE2A4429DA09BDCB743AA6B48D059 | ["93.170.123.60:443"] | N/A | true | Running, V2Dir, Valid | 2026-04-08 00:00:00 | 2026-04-08 00:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|gleepdorf1 | 28742D1302E350F0BA4E6117C751B16110DA4359 | ["23.94.255.250:9001"] | N/A | true | Running, V2Dir, Valid | 2026-04-08 00:00:00 | 2026-04-08 00:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|coldwinter | 5054B16C420283D2167016C2A6C0DA49DBEC05D0 | ["45.150.195.37:9001","[2a0d:6c2:12:3b::]:9001"] | N/A | true | Running, V2Dir, Valid | 2026-04-08 00:00:00 | 2026-04-08 00:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|Lieseleta | EA1D450224F579D48E45A130A58358E77CCB0AF0 | ["87.236.199.223:443","[2a01:5f0:c001:108:29::2]:443"] | N/A | true | Running, V2Dir, Valid | 2026-04-08 00:00:00 | 2026-04-08 00:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
