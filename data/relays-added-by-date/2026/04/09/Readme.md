@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|LauchRelay | 5B4D6B845AC3CC97EB3169D0C774469364322948 | ["46.4.92.165:9001","[2a01:4f8:141:31d:dead::4]:9001"] | 0xEC5E413B Trolli Schmittlauch <spiollilock@googlemail.com> | true | Running, Stable, Valid | 2026-04-09 00:00:00 | 2026-04-09 00:00:00 | 2026-03-26 20:38:40 | 10366976 | Tor 0.4.9.5 on Linux | 0.4.9.6 | recommended | true | ["mail.orlives.de"] | ["reject *:*"]|
