@@ -1,0 +1,5 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Nadascoin | 0731914FE939137B587C669EC810759219973AF7 | ["95.217.5.27:9001","[2a01:4f9:c012:b35::1]:9001"] | N/A | true | Running, V2Dir, Valid | 2026-04-10 00:00:00 | 2026-04-10 00:00:00 | N/A | 0 | N/A | 0.4.8.10 | obsolete | false | ["static.27.5.217.95.clients.your-server.de"] | N/A|
+|CastSecurity | 9A13FEF99DB81C682807AC6C53C2BF4E70530BD0 | ["43.228.157.121:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-04-10 00:00:00 | 2026-04-10 00:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|RyzenTor | F715A769F37921724EF6274321CF0FAC8FF29F46 | ["87.197.155.112:44401"] | contact@liljacob.lol | true | Running, Stable, V2Dir, Valid | 2026-04-10 00:00:00 | 2026-04-10 00:00:00 | 2026-04-04 09:02:16 | 22872064 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | ["static-dsl-112.87-197-155.telecom.sk"] | ["reject *:*"]|
