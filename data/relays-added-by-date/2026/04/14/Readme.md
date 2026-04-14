@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|TV503 | 0626636446AC42A9D81E0849E4DFA02A65FE5D0F | ["191.85.247.195:9001"] | printerexpert@mail2tor.com | true | Exit, Running, V2Dir, Valid | 2026-04-14 00:00:00 | 2026-04-14 00:00:00 | 2026-04-13 22:43:34 | 0 | Tor 0.4.8.22 on Linux | 0.4.8.22 | recommended | true | N/A | ["reject 0.0.0.0/8:*","reject 169.254.0.0/16:*","reject 127.0.0.0/8:*","reject 192.168.0.0/16:*","reject 10.0.0.0/8:*","reject 172.16.0.0/12:*","reject 191.85.247.195:*","accept *:*"]|
