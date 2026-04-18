@@ -1,0 +1,5 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|SilentOrbit | 4A0E7021A8E9BCE8EA1B5955B048D7AD47EE4D08 | ["202.155.8.78:9001"] | N/A | true | Running, V2Dir, Valid | 2026-04-18 00:00:00 | 2026-04-18 00:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|BunnyHop | 5E79A7B4158F3EE9853C7088EEFAA451AFB79C4B | ["83.217.163.71:443"] | <bunnyhopadmin AT proton dot me> | true | Running, V2Dir, Valid | 2026-04-18 00:00:00 | 2026-04-18 00:00:00 | 2026-03-23 22:46:51 | 4834772 | Tor 0.4.9.5 on Linux | 0.4.9.5 | recommended | true | N/A | ["reject *:*"]|
+|MyTorRelay | B3D98B410055BE9919D0B3EDD194D3DC51740802 | ["23.137.251.125:443","[2602:fc24:14:21::a]:443"] | N/A | true | Running, Valid | 2026-04-18 00:00:00 | 2026-04-18 00:00:00 | 2026-03-18 00:00:00 | 25672712 | Tor 0.4.8.21 on Linux | 0.4.9.6 | recommended | true | N/A | ["reject *:*"]|
