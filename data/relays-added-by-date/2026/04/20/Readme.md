@@ -1,0 +1,5 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|PandaHideout | 260F8C20B290C38247E442EA0D81348ACA4ED8F9 | ["49.213.62.84:9001","[2a14:67c1:b142:1:be24:11ff:fe9b:c096]:9001"] | N/A | false | Running, V2Dir, Valid | 2026-04-20 00:00:00 | 2026-04-20 00:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|LastDragonRelay | 440C2303E38761F5CFE86E31DAF389D70401B1A4 | ["187.154.147.215:9001"] | N/A | true | Running, V2Dir, Valid | 2026-04-20 01:00:00 | 2026-04-20 00:00:00 | N/A | 0 | N/A | 0.4.8.16 | obsolete | false | N/A | N/A|
+|tsutorac | 5714B55589D901090DFFCB9A88DD7E249E0A0832 | ["62.155.201.108:1200"] | 45gb044z (at) duck (.) com  PLEASE USE "TOR RELAY" AS SUBJECT | true | Running, V2Dir, Valid | 2026-04-20 01:00:00 | 2026-04-20 00:00:00 | 2026-04-01 14:09:23 | 3833724 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | ["p3e9bc96c.dip0.t-ipconnect.de"] | ["reject *:*"]|
