@@ -1,4 +1,6 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|egomaniachumvee | 6E505A5319105A65D1F47919E76AFD7BBEC73CFE | ["23.125.120.16:9001"] | N/A | false | Running, V2Dir, Valid | 2026-04-24 03:00:00 | 2026-04-24 01:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
-|renrpo26cellrecord | 8C1A44B5AD0D85AF8CA2AF06495D658D72B91B69 | ["209.38.145.86:9102"] | N/A | true | Running, V2Dir, Valid | 2026-04-24 04:00:00 | 2026-04-24 04:00:00 | N/A | 0 | N/A | 0.4.8.11 | obsolete | false | N/A | N/A|
+|katharina | 634F1EBBDAA0BCD252CC1E5ECB032AFF0C9C7B04 | ["185.36.81.45:443"] | N/A | true | Running, V2Dir, Valid | 2026-04-24 06:00:00 | 2026-04-24 06:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | ["b3.kiwinet.eu"] | N/A|
+|egomaniachumvee | 6E505A5319105A65D1F47919E76AFD7BBEC73CFE | ["23.125.120.16:9001"] | egomaniac_humvee515@simplelogin.com | false | Running, V2Dir, Valid | 2026-04-24 03:00:00 | 2026-04-24 01:00:00 | 2026-04-23 23:31:27 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | ["reject *:*"]|
+|renrpo26cellrecord | 8C1A44B5AD0D85AF8CA2AF06495D658D72B91B69 | ["209.38.145.86:9102"] | N/A | true | Running, V2Dir, Valid | 2026-04-24 06:00:00 | 2026-04-24 04:00:00 | N/A | 0 | N/A | 0.4.8.11 | obsolete | false | N/A | N/A|
+|Killix | BBF737F14EA8FB839A5266E3F04C71E27AFAFE3E | ["38.49.217.50:80"] | N/A | true | Running, V2Dir, Valid | 2026-04-24 06:00:00 | 2026-04-24 06:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
