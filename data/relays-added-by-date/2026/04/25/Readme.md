@@ -1,3 +1,5 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|boerni | 80B96F3EA791444E72C0C72AE035F378D3FAED41 | ["92.116.235.34:9001"] | N/A | true | Running, V2Dir, Valid | 2026-04-25 03:00:00 | 2026-04-25 01:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | ["i5C74EB22.versanet.de"] | N/A|
+|boerni | 80B96F3EA791444E72C0C72AE035F378D3FAED41 | ["92.116.232.182:9001"] | N/A | true | Running, V2Dir, Valid | 2026-04-25 04:00:00 | 2026-04-25 01:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | ["i5C74E8B6.versanet.de"] | N/A|
+|WarpHoziozaj | AE95D681206129EC140650162FF01EC1DBBFDE63 | ["176.191.178.69:443"] | N/A | true | Running, V2Dir, Valid | 2026-04-25 04:00:00 | 2026-04-25 04:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|TV6444 | DBE7E8952D5E0292D18653DED313E138DC6CBAB3 | ["97.138.209.246:9001"] | N/A | false | Exit, Running, V2Dir, Valid | 2026-04-25 03:00:00 | 2026-04-25 03:00:00 | N/A | 0 | N/A | 0.4.8.22 | recommended | true | ["246.sub-97-138-209.myvzw.com"] | N/A|
