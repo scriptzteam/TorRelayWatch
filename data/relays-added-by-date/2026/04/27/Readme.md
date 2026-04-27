@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|CloudyNode | 6E57625CA642A0CECA636986C0743185CD4C57AD | ["86.85.136.83:9001"] | Test@test.net | true | Running, V2Dir, Valid | 2026-04-27 01:00:00 | 2026-04-27 01:00:00 | 2026-03-21 23:19:28 | 2944621 | Tor 0.4.9.5 on Linux | 0.4.9.6 | recommended | true | ["86-85-136-83.fixed.kpn.net"] | ["reject *:*"]|
+|taxevader | A75390E5CED01B87E7B4078CEDA4D080A93F93F4 | ["45.141.119.248:443","[2a14:c380:c70:d5::a]:443"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-04-27 01:00:00 | 2026-04-27 01:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
