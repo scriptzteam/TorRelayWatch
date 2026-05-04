@@ -1,3 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|RepublicOfKorea | B7993D59D18E87B137BC74611C5270D99138A3B8 | ["221.165.82.26:9001"] | N/A | false | Running, V2Dir, Valid | 2026-05-04 02:00:00 | 2026-05-04 02:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|lilninja | 60BD60EFFEFEAA354730540C16DE92573DC3B762 | ["80.151.220.220:443"] | mctwisted.yf@gmail.com | true | Running, V2Dir, Valid | 2026-05-04 08:00:00 | 2026-05-04 08:00:00 | 2026-05-04 07:41:22 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | ["p5097dcdc.dip0.t-ipconnect.de"] | ["reject *:*"]|
+|RepublicOfKorea | B7993D59D18E87B137BC74611C5270D99138A3B8 | ["221.165.82.26:443"] | anonymous@domain.invalid | true | Running, V2Dir, Valid | 2026-05-04 08:00:00 | 2026-05-04 02:00:00 | 2026-05-04 05:40:23 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | ["reject *:*"]|
