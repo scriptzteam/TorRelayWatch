@@ -1,3 +1,8 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|aieternal07 | CF95BDA10162D78D96DF0812E482C1B3562FBE61 | ["194.59.204.74:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-06 01:00:00 | 2026-05-06 01:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|Vertexmaster619 | 18FE610FD552EBA30FD0A547595CFB7DBB226D31 | ["143.198.191.23:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-06 04:00:00 | 2026-05-06 03:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|Tigermaster106 | 2004061264D05807EE6F9096B58A772785318CE1 | ["157.230.210.113:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-06 04:00:00 | 2026-05-06 03:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|Desertmaster7487 | 280F964311BBCC5193C70DDF0C2DA3C38D4578C4 | ["146.190.212.212:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-06 04:00:00 | 2026-05-06 03:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|Digitalmaster67 | B4B7BE710856D28C7848C60B84459F6045AAECC3 | ["143.198.182.187:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-06 04:00:00 | 2026-05-06 03:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|aieternal07 | CF95BDA10162D78D96DF0812E482C1B3562FBE61 | ["194.59.204.74:9001"] | N/A | false | Running, V2Dir, Valid | 2026-05-06 03:00:00 | 2026-05-06 01:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
+|Sonicmaster255 | F4AA9B6A60CF4A9E32909BFF7396357C07642B25 | ["198.211.99.89:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-06 04:00:00 | 2026-05-06 03:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
