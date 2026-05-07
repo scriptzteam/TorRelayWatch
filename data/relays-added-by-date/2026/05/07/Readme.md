@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|CoreRelay005 | 0669834C7CEA3BEF77D34B739C3235EFF97A8864 | ["46.248.185.236:19001"] | tor@c0re.tech | true | Running, V2Dir, Valid | 2026-05-07 01:00:00 | 2026-05-07 00:00:00 | 2024-06-07 06:08:15 | 29254113 | Tor 0.4.8.12 on Linux | 0.4.8.12 | obsolete | false | N/A | ["reject *:*"]|
+|aieternal07 | 51F0AAE35CF30F9102DDC80E26C0BACBDE04ECF8 | ["194.59.204.74:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-07 01:00:00 | 2026-05-07 00:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | N/A | N/A|
