@@ -1,0 +1,6 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|rdpshbyakko | 61B4A25F420F7078F0CD295A6C3012163730155F | ["185.241.208.140:443","[2a12:a800:2:1:185:241:208:140]:443"] | N/A | true | Running, Valid | 2026-05-09 01:00:00 | 2026-05-09 01:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | N/A | N/A|
+|tomasito107 | 92B6C1B4F963F71A2CDDAED3A0EEE167C1EA54D6 | ["167.86.72.13:9001","[2a02:c207:2320:3972::1]:9001"] | tomasito10@seznam.cz | true | Running, V2Dir, Valid | 2026-05-09 01:00:00 | 2026-05-09 00:00:00 | 2026-05-08 22:55:47 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | ["vmi3203972.contaboserver.net"] | ["reject *:*"]|
+|rdpshbyakko | A1A8CD699FF4B693C2D4B52F20B781918CD91922 | ["185.241.208.140:443"] | N/A | true | Running, Valid | 2026-05-09 01:00:00 | 2026-05-09 01:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | N/A | N/A|
+|SaL | AAAE9A02C914599D0D5230B01A3F405424351914 | ["50.121.88.182:58653"] | N/A | true | Running, V2Dir, Valid | 2026-05-09 01:00:00 | 2026-05-09 01:00:00 | N/A | 0 | N/A | 0.4.8.10 | obsolete | false | ["50-121-88-182.drr03.ftwy.in.frontiernet.net"] | N/A|
