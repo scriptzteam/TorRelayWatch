@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|netanyahu | 1DA15E04427790A3A49564BED2E05AE2862EC6E4 | ["45.137.201.67:9001","[2a14:c380:90:40::a]:9001"] | bibi@netanya.hu | true | Running, V2Dir, Valid | 2026-05-11 01:00:00 | 2026-05-11 00:00:00 | 2026-05-10 23:46:28 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | ["reject *:*"]|
