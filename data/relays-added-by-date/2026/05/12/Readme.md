@@ -1,2 +1,7 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Cosmos64 | 52F028A02B9C6EB0D45D72CA5D1D2976419A5CE9 | ["165.232.125.167:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-12 05:00:00 | 2026-05-12 02:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | N/A | N/A|
+|Nexus473 | 6930C730A0533EF9E82F0F952FBAF5D09E14D6F5 | ["209.38.17.201:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-12 05:00:00 | 2026-05-12 03:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | N/A | N/A|
+|Pulsar156 | 700CDB93D158585F73C7D0168688CA609E1AD977 | ["168.144.86.20:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-12 05:00:00 | 2026-05-12 02:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | N/A | N/A|
+|Phoenix19066 | D501472961B4ABAD545C2B047E39F558893AE766 | ["170.64.230.177:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-12 05:00:00 | 2026-05-12 02:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | N/A | N/A|
+|Rapid9855 | F7F9FD70AF2C9E6B1867D892F2A2B23285902C18 | ["147.182.144.178:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-12 05:00:00 | 2026-05-12 03:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | N/A | N/A|
