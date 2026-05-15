@@ -1,3 +1,7 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|iarer | B57659535A66CD8E4725EFDA6D011B79A599EE14 | ["142.93.202.60:443"] | N/A | true | Running, V2Dir, Valid | 2026-05-15 01:00:00 | 2026-05-15 01:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | N/A | N/A|
+|Unnamed | 240AE75B9187F35F5655163093BACA3D1F307B48 | ["168.150.126.240:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-15 05:00:00 | 2026-05-15 02:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | ["resnet-126-240.ucdavis.edu"] | N/A|
+|redacted | 2D3454E9F0054D46C430F3713A8CC57B567CB746 | ["73.143.48.69:443"] | N/A | true | Running, Valid | 2026-05-15 05:00:00 | 2026-05-15 04:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | ["c-73-143-48-69.hsd1.nh.comcast.net"] | N/A|
+|WreckGar | 563E538EB3AE2C09E7042F21B92CA64971D0E80B | ["83.229.17.34:443","[2a0a:8dc0:301e::a]:443"] | N/A | true | Running, Valid | 2026-05-15 05:00:00 | 2026-05-15 05:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | N/A | N/A|
+|iarer | B57659535A66CD8E4725EFDA6D011B79A599EE14 | ["142.93.202.60:443"] | N/A | true | Running, V2Dir, Valid | 2026-05-15 05:00:00 | 2026-05-15 01:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | N/A | N/A|
+|viennaOnTheRunnn | D7280FBEE803F64446D62CDF6CF3DC830C270772 | ["81.169.186.16:29003","[2a01:238:429c:9600:40e6:e961:9cf7:31d1]:29003"] | N/A | true | Fast, Running, V2Dir, Valid | 2026-05-15 05:00:00 | 2026-05-15 03:00:00 | N/A | 0 | N/A | 0.4.8.19 | obsolete | false | N/A | N/A|
