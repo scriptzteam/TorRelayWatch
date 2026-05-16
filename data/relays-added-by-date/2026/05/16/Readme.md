@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|aieternal07 | 025984D633883E1C1BE9DFCB5238B00C54F79746 | ["194.59.204.74:9001"] | E2F404D23F750CA6E616764E61B9C42FB3292DE0 \\| qatsi4223 \\| qatsi4223 _/ at /_ gmail.com | true | Running, V2Dir, Valid | 2026-05-16 04:00:00 | 2026-05-16 02:00:00 | 2026-05-16 00:00:29 | 0 | Tor 0.4.9.6 on Linux | 0.4.9.6 | recommended | true | N/A | ["reject *:*"]|
