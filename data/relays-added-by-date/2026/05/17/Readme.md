@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|AlpenRelay | 41C58769A0E909FB08C4C228EA38E891EE3BEDA2 | ["141.95.41.61:9001","[2001:41d0:701:1100::cfeb]:9001"] | N/A | true | Running, V2Dir, Valid | 2026-05-17 01:00:00 | 2026-05-17 01:00:00 | N/A | 0 | N/A | 0.4.9.8 | recommended | true | ["vps-7e9fbf15.vps.ovh.net"] | N/A|
+|unfriendTelus | 6BCD33E5B8F9B16413A8724190CB0A9EBE30D397 | ["205.206.233.4:443"] | N/A | true | Running, V2Dir, Valid | 2026-05-17 01:00:00 | 2026-05-17 01:00:00 | N/A | 0 | N/A | 0.5.0.0-alpha-dev | experimental | false | ["d205-206-233-4.abhsia.telus.net"] | N/A|
