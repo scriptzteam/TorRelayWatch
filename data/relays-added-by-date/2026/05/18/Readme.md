@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|thankssnowden1 | 4A9C63CC48623666758F7E145660CC631F53A79A | ["217.154.224.234:9001","[2a01:239:416:9500::1]:9001"] | tor.blissful040@passmail.net | true | Running, V2Dir, Valid | 2026-05-18 02:00:00 | 2026-05-18 00:00:00 | 2026-05-17 23:14:17 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | N/A | ["reject *:*"]|
