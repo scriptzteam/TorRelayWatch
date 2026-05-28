@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|WildsofArkansas | DCD14509BC409201A36DE110AFBA36B243DB85F0 | ["173.225.5.91:9001"] | lordbanquo@tutamail.com | true | Running, V2Dir, Valid | 2026-05-28 01:00:00 | 2026-05-28 01:00:00 | 2026-05-28 00:38:05 | 43008 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | ["host-173-225-5-91.madisoncounty.net"] | ["reject *:*"]|
