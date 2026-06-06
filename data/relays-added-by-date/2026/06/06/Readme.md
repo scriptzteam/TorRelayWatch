@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|TV9517 | 723396C6314706F7B9A41E112DC5E54F3E356D30 | ["187.21.222.209:9001"] | printerexpert@mail2tor.com | true | Exit, Running, V2Dir, Valid | 2026-06-06 01:00:00 | 2026-06-06 00:00:00 | 2026-06-05 22:28:04 | 25600 | Tor 0.4.8.22 on Linux | 0.4.8.22 | obsolete | false | N/A | ["reject 0.0.0.0/8:*","reject 169.254.0.0/16:*","reject 127.0.0.0/8:*","reject 192.168.0.0/16:*","reject 10.0.0.0/8:*","reject 172.16.0.0/12:*","reject 187.21.222.209:*","accept *:*"]|
