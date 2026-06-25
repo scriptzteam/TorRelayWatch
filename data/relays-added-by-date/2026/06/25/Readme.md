@@ -1,2 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|forest45 | 36B8855417A4DA8BFED2D09E224DA57C05012428 | ["185.119.19.108:9001","[2a14:7584:440b::2]:9001"] | N/A | true | Running, V2Dir, Valid | 2026-06-25 03:00:00 | 2026-06-25 02:00:00 | N/A | 0 | N/A | 0.4.9.10 | recommended | true | N/A | N/A|
+|Hoosty | 8E9A7F7348E9BDD99FC66E9CBAA2AF2744A3EF6D | ["187.77.245.105:9001","[2a02:4780:6e:ab95::1]:9001"] | N/A | true | Running, V2Dir, Valid | 2026-06-25 03:00:00 | 2026-06-25 03:00:00 | N/A | 0 | N/A | 0.4.9.10 | recommended | true | ["srv1782160.hstgr.cloud"] | N/A|
