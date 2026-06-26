@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|schaunicht | 1C3F748F1C28C59CBA2D6E3FF1BF02CFD0EBE4BC | ["159.195.7.151:9001","[2a00:11c0:5f:4522:b86e:7fff:fee4:92b6]:9001"] | torschaunicht@gmail.com | true | Running, Valid | 2026-06-26 02:00:00 | 2026-06-26 01:00:00 | 2026-06-26 00:40:13 | 0 | Tor 0.4.9.8 on Linux | 0.4.9.8 | recommended | true | ["v2202512321575414523.ultrasrv.de"] | ["reject *:*"]|
+|BunkTorRelay | 889E0924AB5F3C41578A78F418BD6956578FC761 | ["89.149.242.167:9001"] | hello@bunk.im | true | Running, V2Dir, Valid | 2026-06-26 02:00:00 | 2026-06-26 01:00:00 | 2026-06-25 22:45:17 | 0 | Tor 0.4.9.10 on Linux | 0.4.9.10 | recommended | true | N/A | ["reject *:*"]|
