@@ -1,2 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|epimetheus | C1F14F6E09BDDBA7FEB8FCA37693539ABBE9A867 | ["37.27.212.21:443","[2a01:4f9:c010:708c::a:a]:443"] | N/A | true | Running, V2Dir, Valid | 2026-06-30 03:00:00 | 2026-06-30 02:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | ["epimetheus.wach-it-solutions.de"] | N/A|
+|sneed | D0968EE8B66665E15B8204AACF310E820AF8D799 | ["138.197.124.121:443"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-06-30 03:00:00 | 2026-06-30 03:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | N/A | N/A|
