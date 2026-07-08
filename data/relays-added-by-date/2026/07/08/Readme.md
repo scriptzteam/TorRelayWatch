@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|SweetHomeRelay | 412D6BF196CA6C97EB02F0ABF69395EF48811DC0 | ["167.179.167.166:9001"] | N/A | true | Running, Valid | 2026-07-08 01:00:00 | 2026-07-08 00:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | ["167-179-167-166.a7b3a7.bne.nbn.aussiebb.net"] | N/A|
+|gloriamundi | EFCFDBD8B78FE3D6336DBCBA1330E37B5A353709 | ["193.24.210.108:9001","[2a00:1913:8dc2::1]:9001"] | Gloria Mundi <tor AT gloria-mundi DOT eu> | true | Running, Valid | 2026-07-08 01:00:00 | 2026-07-08 01:00:00 | 2026-07-08 00:00:00 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | ["gloria-mundi.eu"] | ["reject *:*"]|
