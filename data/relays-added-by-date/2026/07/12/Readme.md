@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|TV1610 | 0F5EA7F1944A8B87B72B500DFAB731D6DA942480 | ["190.49.55.210:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-07-12 01:00:00 | 2026-07-12 00:00:00 | N/A | 0 | N/A | 0.4.8.22 | obsolete | false | N/A | N/A|
+|refan4 | C9A4F65B337B750EA4938F4A8E483B97EEFFDB49 | ["104.164.55.8:443"] | email: refantastic@4d2.org xmr: 8C3hqrE4kK15Ew3QSoiWasikjVPR1D2Ao4AoSmY65FPyJ3hrMehyA8ejgN7Hb9xJWUXrjTRmNkrAz6mv1hbrVLE836Pogs4 | true | Running, Valid | 2026-07-12 01:00:00 | 2026-07-12 01:00:00 | 2026-07-11 23:59:59 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | ["reject *:*"]|
