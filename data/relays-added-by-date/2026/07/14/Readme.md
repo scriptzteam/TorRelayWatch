@@ -1,0 +1,5 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|torexitams14 | 3C31562B68E46F810E5A257AFCBAAD6CDE65A35A | ["45.66.35.46:1984","[2a09:61c0::46]:443"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-07-14 00:00:00 | 2026-07-14 00:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | ["ams26.torexit.nl"] | N/A|
+|PiBoxPluto | 4433E517507CBBA624B0AF5F515D88F92178CFD1 | ["189.18.9.128:9001"] | N/A | true | Running, V2Dir, Valid | 2026-07-14 00:00:00 | 2026-07-14 00:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | ["189-18-9-128.dsl.telesp.net.br"] | N/A|
+|BitsBeBittin | 500A3BAFA7CA50D8E3BE61CB9FAD1980649876EA | ["81.77.216.20:9001"] | N/A | true | Running, V2Dir, Valid | 2026-07-14 00:00:00 | 2026-07-14 00:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | N/A | N/A|
