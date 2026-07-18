@@ -1,2 +1,5 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|MyTestRelay | C752F8157E0C527D2A07BAABD1919BA79EFAC358 | ["178.55.76.15:9001"] | N/A | false | Running, V2Dir, Valid | 2026-07-18 03:00:00 | 2026-07-18 03:00:00 | N/A | 0 | N/A | 0.4.9.6 | recommended | true | ["178-55-76-15.bb.dnainternet.fi"] | N/A|
+|arpitjindal97 | D5E1C3281277B1F62DC0DFE8247B3CE8CC93AECF | ["62.84.176.89:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-07-18 04:00:00 | 2026-07-18 04:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | ["vmi2981374.contaboserver.net"] | N/A|
+|MyTestRelay | DB9E107BF26AA81119432762578EF004C8CFF314 | ["178.55.76.15:9001"] | N/A | true | Running, V2Dir, Valid | 2026-07-18 04:00:00 | 2026-07-18 04:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | ["178-55-76-15.bb.dnainternet.fi"] | N/A|
