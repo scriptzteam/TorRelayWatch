@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|PikaSim | 0EFB7322FFE2EA4174965687C368D322B8170E7D | ["65.21.176.1:9001","[2a01:4f9:c013:15ed::1]:9001"] | PikaSim <abuse@pikasim.com> url:https://pikasim.com ciissversion:2 proof:uri-rsa abuse:abuse@pikasim.com twitter:PikaSim_esim | true | Running, Valid | 2026-07-26 02:00:00 | 2026-07-26 02:00:00 | 2026-07-26 01:11:28 | 0 | Tor 0.4.9.9 on Linux | 0.4.9.9 | recommended | true | ["static.1.176.21.65.clients.your-server.de"] | ["reject *:*"]|
+|TV5052 | 552465AD2BAF2707169324D04808F92FAD233E63 | ["201.177.72.61:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-07-26 02:00:00 | 2026-07-26 02:00:00 | N/A | 0 | N/A | 0.4.8.22 | obsolete | false | N/A | N/A|
