@@ -1,2 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|MyDebian13Exit | 354847B893F1B4709E3AC3272F36A6A1B5AD7C05 | ["45.129.8.100:9001","[2a12:a304:4:424::a]:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-07-31 04:00:00 | 2026-07-31 02:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | N/A | N/A|
+|Rinze | 4CD71918D9FAA0D94FAB6C9DB69753002E176FD1 | ["122.208.194.19:443"] | N/A | true | Running, V2Dir, Valid | 2026-07-31 04:00:00 | 2026-07-31 02:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | ["122x208x194x19.ap122.ftth.ucom.ne.jp"] | N/A|
