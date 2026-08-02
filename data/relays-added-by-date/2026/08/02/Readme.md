@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|CloudyNode | 6E57625CA642A0CECA636986C0743185CD4C57AD | ["86.85.136.83:9001"] | Test@test.net | true | Running, V2Dir, Valid | 2026-08-02 01:00:00 | 2026-08-02 01:00:00 | 2026-08-02 00:06:48 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | ["86-85-136-83.fixed.kpn.net"] | ["reject *:*"]|
+|bstsrelay | BB68F8CC648416A4087781F163B5AA5037BB38DB | ["144.91.91.30:9001","[2a02:c207:2322:1790::1]:9001"] | N/A | true | Running, V2Dir, Valid | 2026-08-02 01:00:00 | 2026-08-02 00:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | ["vmi3221790.contaboserver.net"] | N/A|
