@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DFnodo | 1986839918BC5DD5D5FC383F475A20EFDC2EE1F6 | ["2.155.61.132:9001"] | DFL diegofandino100@gmail.com | true | Running, V2Dir, Valid | 2026-08-05 02:00:00 | 2026-08-05 01:00:00 | 2026-08-05 00:32:54 | 67584 | Tor 0.4.9.5 on Linux | 0.4.9.5 | recommended | true | ["2.155.61.132.dyn.user.ono.com"] | ["reject *:*"]|
