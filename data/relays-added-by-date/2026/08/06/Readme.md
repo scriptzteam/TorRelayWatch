@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|0xdeadbeaf | EDCD8A1171B474532F914801AB745674AFFB8FA3 | ["176.136.249.135:9001"] | 0xdeadbeaf@tuta.com | true | Running, Valid | 2026-08-06 01:00:00 | 2026-08-06 00:00:00 | 2026-08-05 22:52:31 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | ["176-136-249-135.abo.bbox.fr"] | ["reject *:*"]|
