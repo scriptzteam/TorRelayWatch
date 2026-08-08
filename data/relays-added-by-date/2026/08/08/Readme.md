@@ -1,0 +1,3 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|zeydRelay2 | 0B9C48EFBA7691D2446B4EA3039DCAD98B6C52BE | ["85.121.53.248:9001","[2a06:a880:4:1dad::1]:9001"] | info@zeyd.eu | true | Running, Valid | 2026-08-08 00:00:00 | 2026-08-08 00:00:00 | 2026-08-07 22:57:04 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | ["reject *:*"]|
