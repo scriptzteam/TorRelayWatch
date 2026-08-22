@@ -1,3 +1,5 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|extracyberspace | 718350CE17939A3796036FA4A6F6EDEBE50005E1 | ["212.107.128.206:9001"] | N/A | true | Running, V2Dir, Valid | 2026-08-22 03:00:00 | 2026-08-22 03:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | ["212-107-128-206.customers.ownit.se"] | N/A|
+|extracyberspace | 718350CE17939A3796036FA4A6F6EDEBE50005E1 | ["212.107.128.206:9001"] | N/A | true | Running, V2Dir, Valid | 2026-08-22 04:00:00 | 2026-08-22 03:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | ["212-107-128-206.customers.ownit.se"] | N/A|
+|Unnamed | D41F092436B5C8AA10BD7184AF64C2F98B7B02F8 | ["89.247.26.157:9001"] | N/A | true | Fast, Running, V2Dir, Valid | 2026-08-22 04:00:00 | 2026-08-22 04:00:00 | 2026-08-22 03:11:21 | 409600 | Tor 0.4.8.13 on Linux | 0.4.8.13 | obsolete | false | ["i59F71A9D.versanet.de"] | ["reject *:*"]|
+|mfdoom | F536F727797B4AEB5C7058A29E9964F8118D8F6C | ["64.65.2.182:443"] | N/A | true | Running, Valid | 2026-08-22 04:00:00 | 2026-08-22 04:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | N/A | N/A|
