@@ -1,2 +1,6 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|demise | 3280B1A872FB26560BBD8DFF47633E16B762BACC | ["158.94.208.7:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-08-25 01:00:00 | 2026-08-25 01:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | N/A | N/A|
+|AmberLantern | 400B4A867BB111E776813B86A14D8FB9615ED365 | ["45.95.169.138:9001","[2a0e:bfc0:0:38::9c6e]:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-08-25 01:00:00 | 2026-08-25 00:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | ["vps36828.maxko-hosting.net"] | N/A|
+|PearsonSpecterLitt | 602D56DFD408530F7FE3056CAF1DA413A50ECAE4 | ["162.206.3.44:443"] | Harvey Specter | true | Running, V2Dir, Valid | 2026-08-25 01:00:00 | 2026-08-25 01:00:00 | 2026-08-25 00:17:30 | 17408 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | ["162-206-3-44.lightspeed.wepbfl.sbcglobal.net"] | ["reject *:*"]|
+|TV3827 | F48AAF2B50D3F867CAE64551331B247705E31AD2 | ["181.47.48.151:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-08-25 01:00:00 | 2026-08-25 00:00:00 | N/A | 0 | N/A | 0.4.8.22 | obsolete | false | N/A | N/A|
