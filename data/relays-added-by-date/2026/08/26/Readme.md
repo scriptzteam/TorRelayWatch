@@ -1,2 +1,3 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|gizmo13 | 4BC4F3CFFBCB96B31EE525633ABCC827BC8BFA94 | ["38.102.84.204:443","[2602:ffd5:1:28c::1]:443"] | gizmo_tor@proton.me | true | Running, V2Dir, Valid | 2026-08-26 01:00:00 | 2026-08-26 01:00:00 | 2026-08-26 00:07:38 | 0 | Tor 0.4.8.10 on Linux | 0.4.8.10 | obsolete | false | N/A | ["reject *:*"]|
