@@ -1,2 +1,4 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|StartOSRelay | 4EB2D31F6591EC5E9B339890AD2DE22053068E97 | ["139.94.114.219:9001"] | N/A | true | Fast, Running, V2Dir, Valid | 2026-09-06 06:00:00 | 2026-09-06 04:00:00 | N/A | 0 | N/A | 0.4.9.11 | recommended | true | N/A | N/A|
+|forest59 | 99931DC425687983CEE16523CF82800CDFC73114 | ["142.91.98.104:443","[2402:a7c0:3003:105:1c00:7fff:fe00:23a]:443"] | email:forest-relay-contact[]cryptolab.net pgp:BCBAE3E9CB8E2FE23F29DC58061D7CAC428DD60B ciissversion:2 | true | Running, V2Dir, Valid | 2026-09-06 06:00:00 | 2026-09-06 03:00:00 | 2026-09-06 01:50:40 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | recommended | true | N/A | ["reject *:*"]|
