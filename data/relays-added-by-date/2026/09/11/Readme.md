@@ -1,0 +1,5 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|neutrino | 1E0E38DBE2407622E58F9A56D7DD19C704C54DA9 | ["84.200.205.148:9009"] | N/A | true | Running, Valid | 2026-09-11 01:00:00 | 2026-09-11 01:00:00 | N/A | 0 | N/A | 0.4.9.12 | recommended | true | N/A | N/A|
+|Razservers | 30B46FF0141C0F3748E00DBF6E45E1DDD54A1D51 | ["94.136.83.72:9001"] | N/A | true | Running, V2Dir, Valid | 2026-09-11 01:00:00 | 2026-09-11 01:00:00 | 2026-09-11 00:37:57 | 33792 | Tor 0.4.9.12 on Linux | 0.4.9.12 | recommended | true | N/A | ["reject *:*"]|
+|TotallyNotABTCMixer | D5A5C7BB80351E7613A7A275349DAF2826902C1F | ["185.122.186.195:443","[2a03:f80:420:801::1]:443"] | full.frame4647@diversifiedwaysholdings.com | true | Running, V2Dir, Valid | 2026-09-11 01:00:00 | 2026-09-11 00:00:00 | 2026-09-10 23:07:13 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | N/A | ["reject *:*"]|
