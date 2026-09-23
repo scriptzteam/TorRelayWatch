@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Reaperwoods | 09B40B189EB135BFE80FA1DA8C109F89334DA925 | ["5.230.254.90:443"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-09-23 00:00:00 | 2026-09-23 00:00:00 | N/A | 0 | N/A | 0.4.9.12 | recommended | true | N/A | N/A|
+|supremenode1 | 240B8A97C6BDFC1404D1E318ED5B1B215321313D | ["31.97.100.69:9001","[2a02:4780:2d:71e8::1]:9001"] | N/A | true | Running, V2Dir, Valid | 2026-09-23 00:00:00 | 2026-09-23 00:00:00 | N/A | 0 | N/A | 0.4.9.11 | obsolete | false | ["srv1097135.hstgr.cloud"] | N/A|
