@@ -1,0 +1,5 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|user1 | 0F1A200D74645716AFD26C732F26E88C35B7B4C8 | ["87.189.45.102:9001","[2003:e3:df4c:3700:9618:82ff:fe16:2de4]:9001"] | plueschponyland@gmail.com | true | Fast, Running, V2Dir, Valid | 2026-10-10 00:00:00 | 2026-10-10 00:00:00 | 2026-10-09 23:01:40 | 49152 | Tor 0.4.9.14 on Linux | 0.4.9.14 | recommended | true | ["p57bd2d66.dip0.t-ipconnect.de"] | ["reject *:*"]|
+|TorDola1 | 2FDC532A3DCD1EE5A46F37DA0FBCEE84936D9EDC | ["185.56.83.11:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-10-10 00:00:00 | 2026-10-10 00:00:00 | N/A | 0 | N/A | 0.4.9.13 | recommended | true | N/A | N/A|
+|DollyParted | 5150DA0C4E40BD2C6E3B18B1C56F9ACDB740C13F | ["194.36.190.112:9001","[2a04:dd00:26:9:216:3cff:fe5d:98ef]:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-10-10 00:00:00 | 2026-10-10 00:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | N/A | N/A|
