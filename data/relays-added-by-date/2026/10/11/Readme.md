@@ -1,0 +1,6 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|relay2 | 5A34A4DBE0D7D4D8E0203387B3DC99784F593303 | ["73.124.58.161:9003"] | N/A | true | Running, V2Dir, Valid | 2026-10-11 02:00:00 | 2026-10-11 01:00:00 | N/A | 0 | N/A | 0.4.9.12 | recommended | true | ["c-73-124-58-161.hsd1.fl.comcast.net"] | N/A|
+|ifsnodede04 | 75024C483B8D3ABE54BDC29D048E4F2CA6069560 | ["79.206.165.170:9001"] | N/A | true | Running, V2Dir, Valid | 2026-10-11 02:00:00 | 2026-10-11 00:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | N/A | N/A|
+|SlayerRelay | C13FF02CA9FDD6E2EC5CD2E35E38ACAC92AC4B07 | ["143.103.25.42:9001"] | N/A | true | Running, V2Dir, Valid | 2026-10-11 02:00:00 | 2026-10-11 00:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | ["dhcp-143-103-25-42.gobrightspeed.net"] | N/A|
+|ifsnodede03 | C8EB071A7C1D53F5F6CD6EE034501137C5313DBE | ["45.83.106.247:9001","[2a03:4000:46:c7a:68d3:faff:fe26:59fb]:9001"] | N/A | true | Running, V2Dir, Valid | 2026-10-11 02:00:00 | 2026-10-11 00:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | ["v2202606200408473777.nicesrv.de"] | N/A|
