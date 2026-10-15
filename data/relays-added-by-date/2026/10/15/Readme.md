@@ -1,0 +1,5 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|gentlewind | 9AA1C5F683A4CA76C27648D8CFD76C7FEB66082E | ["87.210.120.85:9001"] | erwin@krewrov.com | true | Running, V2Dir, Valid | 2026-10-15 02:00:00 | 2026-10-15 00:00:00 | 2026-10-14 21:40:52 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | ["85-120-210-87.ftth.glasoperator.nl"] | ["reject *:*"]|
+|zgato | D3EE8EBCA92CB08648D482890D1C1BF539CD362A | ["66.187.76.236:443"] | N/A | true | Running, V2Dir, Valid | 2026-10-15 01:00:00 | 2026-10-15 01:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | N/A | N/A|
+|jeffgordon | FEADB5E516DCC256135988AC4104513E092E0B2C | ["37.48.65.88:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-10-15 01:00:00 | 2026-10-15 01:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | N/A | N/A|
