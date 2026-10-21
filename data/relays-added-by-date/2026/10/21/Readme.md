@@ -1,2 +1,7 @@
 | Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|StartOSRelay | 0C997EA49ABDC172F7A783F318F0B900496C719F | ["24.230.53.44:9001"] | N/A | true | Running, V2Dir, Valid | 2026-10-21 05:00:00 | 2026-10-21 03:00:00 | N/A | 0 | N/A | 0.4.9.12 | recommended | true | ["24-230-53-44-dynamic.midco.net"] | N/A|
+|DockerTorRelay | 17FB4A4A6E50E1A37083A5F133FD184C99A659FA | ["43.108.120.171:9050"] | N/A | true | Running, V2Dir, Valid | 2026-10-21 05:00:00 | 2026-10-21 05:00:00 | N/A | 0 | N/A | 0.4.9.11 | obsolete | false | N/A | N/A|
+|Exit01 | 1D54C8ECBAE0AE8887BC876B12C7C99D5021775E | ["43.131.2.16:9001"] | N/A | true | Exit, Running, V2Dir, Valid | 2026-10-21 05:00:00 | 2026-10-21 03:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | N/A | N/A|
+|Libergaurdrelay | 957994A99FF46F3BEA04E7B840C05DBBEBFE8C7B | ["206.81.2.223:443"] | N/A | true | Running, Valid | 2026-10-21 05:00:00 | 2026-10-21 02:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | N/A | N/A|
+|DockerTorRelay | B97FC4A72692325589360187FED9BC6B1C873610 | ["8.216.4.21:9050"] | N/A | true | Running, V2Dir, Valid | 2026-10-21 05:00:00 | 2026-10-21 05:00:00 | N/A | 0 | N/A | 0.4.9.11 | obsolete | false | N/A | N/A|
