@@ -1,0 +1,5 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|NextServRelay | 4842EB63705E861D1FABACC8851BBB579258BA60 | ["62.144.62.5:9001","[2a14:7581:5080::5]:9001"] | N/A | true | Running, Valid | 2026-10-22 00:00:00 | 2026-10-22 00:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | N/A | N/A|
+|torrrrr | 853246C4EBF7FD27C2EBE31E2DF37B2B5F13A39C | ["5.9.59.78:9001","[2a01:4f8:161:6ffe::11]:9001"] | linus*at*dr-lotz*de | true | Running, Valid | 2026-10-22 00:00:00 | 2026-10-22 00:00:00 | 2026-10-21 23:14:05 | 0 | Tor 0.4.9.14 on Linux | 0.4.9.14 | recommended | true | ["mail.dr-lotz.de"] | ["reject *:*"]|
+|centurion | BB4465B1EF3E765068C8D7231E316EF68B571499 | ["86.81.131.200:8100"] | admin@centurion.link | true | Running, V2Dir, Valid | 2026-10-22 00:00:00 | 2026-10-22 00:00:00 | 2026-10-21 23:14:11 | 0 | Tor 0.4.9.14 on Linux | 0.4.9.14 | recommended | true | ["86-81-131-200.fixed.kpn.net"] | ["reject *:*"]|
