@@ -1,0 +1,5 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Awooo | 3DDACFCDEE38F345117D7E6EAA26713282CC353D | ["212.227.65.91:443","[2a01:239:268:6a00::1]:443"] | N/A | true | Running, V2Dir, Valid | 2026-10-23 00:00:00 | 2026-10-23 00:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | ["ip212-227-65-91.pbiaas.com"] | N/A|
+|OmTheBrongKingKong | 5FA6D81DAA0E54AF578226CEB23AE414336432D0 | ["37.221.192.175:9001","[2a03:4000:8:428:1813:5bff:fe39:7be0]:9001"] | N/A | true | Running, Valid | 2026-10-23 00:00:00 | 2026-10-23 00:00:00 | 2024-10-31 19:07:59 | 71332 | Tor 0.4.7.16 on Linux | 0.4.9.11 | obsolete | false | ["mail.omasiso.de"] | ["reject *:*"]|
+|masstorrackchi | 7CE912197CBFD44B122F8CF5F6DAC388086D9E19 | ["66.225.194.73:443"] | N/A | true | Running, Valid | 2026-10-23 00:00:00 | 2026-10-23 00:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | ["rackchi66-225-194-73.dmzdns.com"] | N/A|
