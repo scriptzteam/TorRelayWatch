@@ -1,0 +1,5 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|GEjeddah | 255FFDBC11D7F20BBA183B3DA3C7CAC387196463 | ["141.147.143.120:443","[2603:c023:8004:8000::64]:443"] | N/A | true | Running, V2Dir, Valid | 2026-10-31 00:00:00 | 2026-10-31 00:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | N/A | N/A|
+|GEsantiago | 9A49D980732FACA6BD62F1BB48A52C695F80E6CD | ["146.181.30.214:443","[2603:c025:c006:ad00::64]:443"] | N/A | true | Running, V2Dir, Valid | 2026-10-31 00:00:00 | 2026-10-31 00:00:00 | N/A | 0 | N/A | 0.4.9.14 | recommended | true | N/A | N/A|
+|H4rv3stM00N | 9A697931B4CA7050EB19C172FC800652D44FC852 | ["203.12.31.222:443","[2a07:e03:3:21a::1]:443"] | N/A | true | Running, Valid | 2026-10-31 00:00:00 | 2026-10-31 00:00:00 | N/A | 0 | N/A | 0.4.9.15 | recommended | true | N/A | N/A|
