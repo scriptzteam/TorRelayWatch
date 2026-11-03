@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Ch1ll3dGh0st | 2EF78E506683373E9DC944C7428A0BAB3FE0FE9C | ["185.247.224.171:9001","[2a06:1700:0:847::9324:9b0f]:9001"] | N/A | true | Running, Valid | 2026-11-03 00:00:00 | 2026-11-03 00:00:00 | N/A | 0 | N/A | 0.4.9.15 | recommended | true | N/A | N/A|
+|dolemite | 438F3EA4C9FB0DB63F5377A3271AB5435FAD7E04 | ["193.108.117.103:9001"] | N/A | true | Fast, Running, V2Dir, Valid | 2026-11-03 00:00:00 | 2026-11-03 00:00:00 | 2026-11-02 22:54:42 | 710656 | Tor 0.4.9.14 on Linux | 0.4.9.14 | recommended | true | N/A | ["reject *:*"]|
