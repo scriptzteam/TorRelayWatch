@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|DETL0002 | 8879658C190AE9A8F5DBEEEE91E2F51FC9F4C94F | ["109.250.190.211:9002"] | zdjhtdyu@proton.me | true | Running, V2Dir, Valid | 2026-11-10 00:00:00 | 2026-11-10 00:00:00 | 2026-11-09 23:14:44 | 0 | Tor 0.4.9.15 on Windows 8 [or later] | 0.4.9.15 | recommended | true | ["i6DFABED3.versanet.de"] | ["reject *:*"]|
+|vpnhub1 | A5C7E1C10ADA93EFD6F7571C91E84D290F5778B2 | ["136.243.3.60:9099","[2a01:4f8:211:1c94::77]:9099"] | haegar@ccc.de | true | Running, Valid | 2026-11-10 00:00:00 | 2026-11-10 00:00:00 | 2026-11-09 23:00:00 | 0 | Tor 0.4.9.16 on Linux | 0.4.9.16 | recommended | true | ["vpnhub1.hamburg.ccc.de"] | ["reject *:*"]|
