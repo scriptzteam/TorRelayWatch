@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|NewRoze | BCA20CA5F2D5954037A27224CE4B3B4EEDDC2BB0 | ["84.21.173.190:9001"] | N/A | true | Running, V2Dir, Valid | 2026-11-11 01:00:00 | 2026-11-11 01:00:00 | N/A | 0 | N/A | 0.4.9.11 | obsolete | false | N/A | N/A|
+|shrdrelay01 | FE8D22E9EE40301D45AC45F1A91A64FCD927739C | ["38.17.113.100:9001","[2a14:7581:5080::3000]:9001"] | N/A | true | Running, V2Dir, Valid | 2026-11-11 01:00:00 | 2026-11-11 00:00:00 | N/A | 0 | N/A | 0.4.9.15 | recommended | true | ["static.100.113.17.38.clients.abuse.eu"] | N/A|
