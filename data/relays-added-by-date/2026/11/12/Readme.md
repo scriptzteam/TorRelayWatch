@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|leviatan00rtz | DF388A7053E3D48FF29437ED615861590FA7CEE3 | ["162.35.172.195:9001","[2604:a00:50:23d:216:3eff:fe35:1636]:9001"] | admin drzv@proton.me | true | Running, V2Dir, Valid | 2026-11-12 00:00:00 | 2026-11-12 00:00:00 | 2026-11-11 23:04:03 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | ["mail.piccadilly.com.ve"] | ["reject *:*"]|
+|penhan | E9463F2B9FD9AEEA170F12C99E8773106D25BE92 | ["88.99.146.237:9001","[2a01:4f8:10a:2b2c::2]:9001"] | N/A | true | Running, V2Dir, Valid | 2026-11-12 00:00:00 | 2026-11-12 00:00:00 | N/A | 0 | N/A | 0.4.9.16 | recommended | true | ["static.237.146.99.88.clients.your-server.de"] | N/A|
