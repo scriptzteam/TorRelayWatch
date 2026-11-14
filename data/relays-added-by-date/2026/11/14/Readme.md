@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | 0D30F5C8E8702B98A7CC05F5E8557697267EC5A5 | ["76.10.157.54:9001","[2607:f2c0:f00e:300::54]:9001"] | N/A | true | Running, V2Dir, Valid | 2026-11-14 00:00:00 | 2026-11-14 00:00:00 | 2026-10-24 17:27:01 | 0 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | ["76-10-157-54.dsl.teksavvy.com"] | ["reject *:*"]|
+|ProbablyVPNE01 | F96A2CAD47D53D925983DD161BF34645A938CD2E | ["5.255.118.36:9001"] | N/A | true | Exit, Running, Valid | 2026-11-14 00:00:00 | 2026-11-14 00:00:00 | N/A | 0 | N/A | 0.4.9.17 | recommended | true | N/A | N/A|
