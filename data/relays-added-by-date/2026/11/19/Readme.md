@@ -1,0 +1,4 @@
+| Nickname |  Hashed Fingerprint	| Or Addresses | Contact | Running | Flags | Last Seen | First Seen | Last Restarted | Advertised Bandwidth | Platform | Version | Version Status | Recommended Version | Verified hostnames | Exit policy |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Unnamed | 2658DB6C2413100DCFE4888721B688372DE6ABC4 | ["87.142.111.91:9001"] | 0xFFFFFFFF Random Person <nobody AT example dot com> | true | Running, V2Dir, Valid | 2026-11-19 00:00:00 | 2026-11-19 00:00:00 | 2026-11-18 23:12:51 | 71680 | Tor 0.4.9.11 on Linux | 0.4.9.11 | obsolete | false | ["p578e6f5b.dip0.t-ipconnect.de"] | ["reject *:*"]|
+|UKrelay | 44E4DF8D5DB9A56558965A01CA3F7CDF9D7C53CA | ["194.150.166.61:9001"] | N/A | true | Running, V2Dir, Valid | 2026-11-19 00:00:00 | 2026-11-19 00:00:00 | N/A | 0 | N/A | 0.4.9.17 | recommended | true | N/A | N/A|
